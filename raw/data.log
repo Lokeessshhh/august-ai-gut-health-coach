@@ -1,0 +1,1506 @@
+2025-09-03 14:43:44,576 - INFO - Starting Q&A dataset generation
+2025-09-03 14:43:45,135 - INFO - Reading manifest: sources_manifest.csv
+2025-09-03 14:43:45,230 - INFO - Found 34 files in manifest
+2025-09-03 14:43:45,231 - INFO - Processing file 1/34: Mayo Clinic � Digestive Health/mayo_transforming_gut_health.txt
+2025-09-03 14:43:45,233 - INFO - Read 7909 characters from 'Mayo Clinic � Digestive Health/mayo_transforming_gut_health.txt'
+2025-09-03 14:43:45,234 - INFO - Generating 50 Q&A pairs from chunk 1/3 of 'Mayo Clinic � Digestive Health/mayo_transforming_gut_health.txt'
+2025-09-03 14:43:51,197 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 14:43:51,264 - ERROR - Failed to parse JSON response: Expecting ',' delimiter: line 28 column 199 (char 2097)
+2025-09-03 14:43:51,265 - INFO - Manually extracted 0 Q&A pairs
+2025-09-03 14:43:55,462 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 14:43:55,463 - ERROR - Failed to parse JSON response: Expecting ',' delimiter: line 28 column 199 (char 2097)
+2025-09-03 14:43:55,464 - INFO - Manually extracted 0 Q&A pairs
+2025-09-03 14:43:59,557 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 14:43:59,560 - ERROR - Failed to parse JSON response: Expecting ',' delimiter: line 28 column 199 (char 2097)
+2025-09-03 14:43:59,560 - INFO - Manually extracted 0 Q&A pairs
+2025-09-03 14:44:03,602 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 14:44:03,605 - ERROR - Failed to parse JSON response: Expecting ',' delimiter: line 28 column 199 (char 2097)
+2025-09-03 14:44:03,605 - INFO - Manually extracted 0 Q&A pairs
+2025-09-03 14:44:07,651 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 14:44:07,654 - ERROR - Failed to parse JSON response: Expecting ',' delimiter: line 28 column 199 (char 2097)
+2025-09-03 14:44:07,654 - INFO - Manually extracted 0 Q&A pairs
+2025-09-03 14:44:07,655 - INFO - Generating 50 Q&A pairs from chunk 2/3 of 'Mayo Clinic � Digestive Health/mayo_transforming_gut_health.txt'
+2025-09-03 14:44:11,640 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 14:44:15,442 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 14:44:19,058 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 14:44:22,667 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 14:44:26,258 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 14:44:26,261 - INFO - Generating 50 Q&A pairs from chunk 3/3 of 'Mayo Clinic � Digestive Health/mayo_transforming_gut_health.txt'
+2025-09-03 14:44:30,380 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 14:44:30,382 - WARNING - No JSON array found in response
+2025-09-03 14:44:34,455 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 14:44:34,457 - WARNING - No JSON array found in response
+2025-09-03 14:44:38,548 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 14:44:38,552 - WARNING - No JSON array found in response
+2025-09-03 14:44:42,624 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 14:44:42,625 - WARNING - No JSON array found in response
+2025-09-03 14:44:46,764 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 14:44:46,766 - WARNING - No JSON array found in response
+2025-09-03 14:44:46,766 - INFO - Generated 50 Q&A pairs for 'Mayo Clinic � Digestive Health/mayo_transforming_gut_health.txt'
+2025-09-03 14:44:46,768 - INFO - Successfully processed 'Mayo Clinic � Digestive Health/mayo_transforming_gut_health.txt' - Generated 50 Q&A pairs
+2025-09-03 14:44:46,768 - INFO - Processing file 2/34: https://mcpress.mayoclinic.org/dairy-health/prebiotics-probiotics-and-the-microbes-in-your-gut-key-to-your-digestive-health/
+2025-09-03 14:44:46,769 - ERROR - Error reading 'https://mcpress.mayoclinic.org/dairy-health/prebiotics-probiotics-and-the-microbes-in-your-gut-key-to-your-digestive-health/': [Errno 22] Invalid argument: 'https://mcpress.mayoclinic.org/dairy-health/prebiotics-probiotics-and-the-microbes-in-your-gut-key-to-your-digestive-health/'
+2025-09-03 14:44:46,770 - WARNING - Skipping 'https://mcpress.mayoclinic.org/dairy-health/prebiotics-probiotics-and-the-microbes-in-your-gut-key-to-your-digestive-health/' due to read error
+2025-09-03 14:44:46,770 - INFO - Processing file 3/34: Mayo Clinic � Digestive Health/mayo_yogurt_digestion.txt
+2025-09-03 14:44:46,772 - INFO - Read 6186 characters from 'Mayo Clinic � Digestive Health/mayo_yogurt_digestion.txt'
+2025-09-03 14:44:46,774 - INFO - Generating 50 Q&A pairs from chunk 1/3 of 'Mayo Clinic � Digestive Health/mayo_yogurt_digestion.txt'
+2025-09-03 14:44:50,191 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 14:44:53,727 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 14:44:57,133 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 14:45:00,590 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 14:45:04,001 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 14:45:04,004 - INFO - Generating 50 Q&A pairs from chunk 2/3 of 'Mayo Clinic � Digestive Health/mayo_yogurt_digestion.txt'
+2025-09-03 14:45:08,770 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 14:45:13,592 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 14:45:18,405 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 14:45:23,975 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 14:45:28,752 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 14:45:28,754 - INFO - Generating 50 Q&A pairs from chunk 3/3 of 'Mayo Clinic � Digestive Health/mayo_yogurt_digestion.txt'
+2025-09-03 14:45:32,654 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 14:45:36,565 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 14:45:40,455 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 14:45:44,341 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 14:45:48,231 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 14:45:48,234 - INFO - Generated 150 Q&A pairs for 'Mayo Clinic � Digestive Health/mayo_yogurt_digestion.txt'
+2025-09-03 14:45:48,235 - INFO - Successfully processed 'Mayo Clinic � Digestive Health/mayo_yogurt_digestion.txt' - Generated 150 Q&A pairs
+2025-09-03 14:45:48,235 - INFO - Processing file 4/34: Mayo Clinic � Digestive Health/mayo_fiber_microbiome.txt
+2025-09-03 14:45:48,281 - INFO - Read 30238 characters from 'Mayo Clinic � Digestive Health/mayo_fiber_microbiome.txt'
+2025-09-03 14:45:48,284 - INFO - Generating 13 Q&A pairs from chunk 1/11 of 'Mayo Clinic � Digestive Health/mayo_fiber_microbiome.txt'
+2025-09-03 14:45:54,246 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 14:45:54,250 - WARNING - No JSON array found in response
+2025-09-03 14:45:57,140 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 14:45:57,142 - INFO - Generating 13 Q&A pairs from chunk 2/11 of 'Mayo Clinic � Digestive Health/mayo_fiber_microbiome.txt'
+2025-09-03 14:46:02,541 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 14:46:04,551 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 14:46:04,555 - INFO - Generating 13 Q&A pairs from chunk 3/11 of 'Mayo Clinic � Digestive Health/mayo_fiber_microbiome.txt'
+2025-09-03 14:46:10,529 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 14:46:10,533 - WARNING - No JSON array found in response
+2025-09-03 14:46:14,129 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 14:46:14,132 - INFO - Generating 13 Q&A pairs from chunk 4/11 of 'Mayo Clinic � Digestive Health/mayo_fiber_microbiome.txt'
+2025-09-03 14:46:18,673 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 14:46:20,647 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 14:46:20,649 - INFO - Generating 13 Q&A pairs from chunk 5/11 of 'Mayo Clinic � Digestive Health/mayo_fiber_microbiome.txt'
+2025-09-03 14:46:25,432 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 14:46:27,525 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 14:46:27,528 - INFO - Generating 13 Q&A pairs from chunk 6/11 of 'Mayo Clinic � Digestive Health/mayo_fiber_microbiome.txt'
+2025-09-03 14:46:32,133 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 14:46:34,281 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 14:46:34,283 - INFO - Generating 13 Q&A pairs from chunk 7/11 of 'Mayo Clinic � Digestive Health/mayo_fiber_microbiome.txt'
+2025-09-03 14:46:38,333 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 14:46:40,735 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 14:46:40,737 - INFO - Generating 13 Q&A pairs from chunk 8/11 of 'Mayo Clinic � Digestive Health/mayo_fiber_microbiome.txt'
+2025-09-03 14:46:44,728 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 14:46:47,209 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 14:46:47,211 - INFO - Generating 13 Q&A pairs from chunk 9/11 of 'Mayo Clinic � Digestive Health/mayo_fiber_microbiome.txt'
+2025-09-03 14:46:52,101 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 14:46:54,678 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 14:46:54,681 - INFO - Generating 13 Q&A pairs from chunk 10/11 of 'Mayo Clinic � Digestive Health/mayo_fiber_microbiome.txt'
+2025-09-03 14:46:59,575 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 14:47:01,828 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 14:47:01,830 - INFO - Generating 13 Q&A pairs from chunk 11/11 of 'Mayo Clinic � Digestive Health/mayo_fiber_microbiome.txt'
+2025-09-03 14:47:05,906 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 14:47:07,855 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 14:47:07,857 - INFO - Generated 123 Q&A pairs for 'Mayo Clinic � Digestive Health/mayo_fiber_microbiome.txt'
+2025-09-03 14:47:07,857 - INFO - Successfully processed 'Mayo Clinic � Digestive Health/mayo_fiber_microbiome.txt' - Generated 123 Q&A pairs
+2025-09-03 14:47:07,858 - INFO - Processing file 5/34: Mayo Clinic � Digestive Health/mayo_microbiome_aging.txt
+2025-09-03 14:47:07,904 - INFO - Read 6567 characters from 'Mayo Clinic � Digestive Health/mayo_microbiome_aging.txt'
+2025-09-03 14:47:07,906 - INFO - Generating 50 Q&A pairs from chunk 1/3 of 'Mayo Clinic � Digestive Health/mayo_microbiome_aging.txt'
+2025-09-03 14:47:13,093 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 14:47:18,314 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 14:47:23,537 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 14:47:28,674 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 14:47:33,892 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 14:47:33,896 - INFO - Generating 50 Q&A pairs from chunk 2/3 of 'Mayo Clinic � Digestive Health/mayo_microbiome_aging.txt'
+2025-09-03 14:47:38,692 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 14:47:43,504 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 14:47:48,315 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 14:47:53,072 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 14:47:57,943 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 14:47:57,945 - INFO - Generating 50 Q&A pairs from chunk 3/3 of 'Mayo Clinic � Digestive Health/mayo_microbiome_aging.txt'
+2025-09-03 14:48:01,118 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 14:48:04,309 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 14:48:07,432 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 14:48:10,540 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 14:48:13,651 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 14:48:13,654 - INFO - Generated 150 Q&A pairs for 'Mayo Clinic � Digestive Health/mayo_microbiome_aging.txt'
+2025-09-03 14:48:13,654 - INFO - Successfully processed 'Mayo Clinic � Digestive Health/mayo_microbiome_aging.txt' - Generated 150 Q&A pairs
+2025-09-03 14:48:13,655 - INFO - Processing file 6/34: Mayo Clinic � Digestive Health/mayo_alzheimers_gut.txt
+2025-09-03 14:48:13,657 - INFO - Read 9527 characters from 'Mayo Clinic � Digestive Health/mayo_alzheimers_gut.txt'
+2025-09-03 14:48:13,659 - INFO - Generating 37 Q&A pairs from chunk 1/4 of 'Mayo Clinic � Digestive Health/mayo_alzheimers_gut.txt'
+2025-09-03 14:48:18,423 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 14:48:23,235 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 14:48:27,963 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 14:48:31,630 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 14:48:31,632 - INFO - Generating 37 Q&A pairs from chunk 2/4 of 'Mayo Clinic � Digestive Health/mayo_alzheimers_gut.txt'
+2025-09-03 14:48:37,162 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 14:48:42,599 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 14:48:47,926 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 14:48:51,496 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 14:48:51,498 - INFO - Generating 37 Q&A pairs from chunk 3/4 of 'Mayo Clinic � Digestive Health/mayo_alzheimers_gut.txt'
+2025-09-03 14:48:56,106 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 14:49:00,714 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 14:49:05,237 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 14:49:09,010 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 14:49:09,012 - INFO - Generating 37 Q&A pairs from chunk 4/4 of 'Mayo Clinic � Digestive Health/mayo_alzheimers_gut.txt'
+2025-09-03 14:49:12,388 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 14:49:15,674 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 14:49:18,960 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 14:49:21,471 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 14:49:21,474 - INFO - Generated 148 Q&A pairs for 'Mayo Clinic � Digestive Health/mayo_alzheimers_gut.txt'
+2025-09-03 14:49:21,474 - INFO - Successfully processed 'Mayo Clinic � Digestive Health/mayo_alzheimers_gut.txt' - Generated 148 Q&A pairs
+2025-09-03 14:49:21,475 - INFO - Processing file 7/34: Mayo Clinic � Digestive Health/mayo_researchers_tool.txt
+2025-09-03 14:49:21,524 - INFO - Read 4073 characters from 'Mayo Clinic � Digestive Health/mayo_researchers_tool.txt'
+2025-09-03 14:49:21,526 - INFO - Generating 75 Q&A pairs from chunk 1/2 of 'Mayo Clinic � Digestive Health/mayo_researchers_tool.txt'
+2025-09-03 14:49:25,489 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 14:49:29,488 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 14:49:33,584 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 14:49:37,538 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 14:49:41,494 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 14:49:45,569 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 14:49:49,532 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 14:49:52,627 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 14:49:52,628 - INFO - Generating 75 Q&A pairs from chunk 2/2 of 'Mayo Clinic � Digestive Health/mayo_researchers_tool.txt'
+2025-09-03 14:49:57,341 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 14:50:02,052 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 14:50:06,765 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 14:50:11,407 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 14:50:16,081 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 14:50:20,790 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 14:50:25,425 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 14:50:28,162 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 14:50:28,164 - INFO - Generated 150 Q&A pairs for 'Mayo Clinic � Digestive Health/mayo_researchers_tool.txt'
+2025-09-03 14:50:28,165 - INFO - Successfully processed 'Mayo Clinic � Digestive Health/mayo_researchers_tool.txt' - Generated 150 Q&A pairs
+2025-09-03 14:50:28,165 - INFO - Processing file 8/34: Healthline � Gut Health Articles/healthline_reset_gut_health.txt
+2025-09-03 14:50:28,211 - INFO - Read 115741 characters from 'Healthline � Gut Health Articles/healthline_reset_gut_health.txt'
+2025-09-03 14:50:28,215 - INFO - Generating 3 Q&A pairs from chunk 1/39 of 'Healthline � Gut Health Articles/healthline_reset_gut_health.txt'
+2025-09-03 14:50:30,120 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 14:50:30,123 - INFO - Generating 3 Q&A pairs from chunk 2/39 of 'Healthline � Gut Health Articles/healthline_reset_gut_health.txt'
+2025-09-03 14:50:32,054 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 14:50:32,056 - INFO - Generating 3 Q&A pairs from chunk 3/39 of 'Healthline � Gut Health Articles/healthline_reset_gut_health.txt'
+2025-09-03 14:50:34,512 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 14:50:34,515 - INFO - Generating 3 Q&A pairs from chunk 4/39 of 'Healthline � Gut Health Articles/healthline_reset_gut_health.txt'
+2025-09-03 14:50:36,670 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 14:50:36,672 - INFO - Generating 3 Q&A pairs from chunk 5/39 of 'Healthline � Gut Health Articles/healthline_reset_gut_health.txt'
+2025-09-03 14:50:39,017 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 14:50:39,019 - INFO - Generating 3 Q&A pairs from chunk 6/39 of 'Healthline � Gut Health Articles/healthline_reset_gut_health.txt'
+2025-09-03 14:50:41,700 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 14:50:41,703 - INFO - Generating 3 Q&A pairs from chunk 7/39 of 'Healthline � Gut Health Articles/healthline_reset_gut_health.txt'
+2025-09-03 14:50:44,148 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 14:50:44,150 - INFO - Generating 3 Q&A pairs from chunk 8/39 of 'Healthline � Gut Health Articles/healthline_reset_gut_health.txt'
+2025-09-03 14:50:47,849 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 14:50:47,851 - INFO - Generating 3 Q&A pairs from chunk 9/39 of 'Healthline � Gut Health Articles/healthline_reset_gut_health.txt'
+2025-09-03 14:50:50,998 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 14:50:51,019 - INFO - Generating 3 Q&A pairs from chunk 10/39 of 'Healthline � Gut Health Articles/healthline_reset_gut_health.txt'
+2025-09-03 14:50:53,514 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 14:50:53,515 - INFO - Generating 3 Q&A pairs from chunk 11/39 of 'Healthline � Gut Health Articles/healthline_reset_gut_health.txt'
+2025-09-03 14:50:55,909 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 14:50:55,911 - INFO - Generating 3 Q&A pairs from chunk 12/39 of 'Healthline � Gut Health Articles/healthline_reset_gut_health.txt'
+2025-09-03 14:50:58,577 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 14:50:58,579 - INFO - Generating 3 Q&A pairs from chunk 13/39 of 'Healthline � Gut Health Articles/healthline_reset_gut_health.txt'
+2025-09-03 14:51:00,688 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 14:51:00,691 - INFO - Generating 3 Q&A pairs from chunk 14/39 of 'Healthline � Gut Health Articles/healthline_reset_gut_health.txt'
+2025-09-03 14:51:02,788 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 14:51:02,790 - INFO - Generating 3 Q&A pairs from chunk 15/39 of 'Healthline � Gut Health Articles/healthline_reset_gut_health.txt'
+2025-09-03 14:51:04,849 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 14:51:04,852 - INFO - Generating 3 Q&A pairs from chunk 16/39 of 'Healthline � Gut Health Articles/healthline_reset_gut_health.txt'
+2025-09-03 14:51:07,177 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 14:51:07,179 - INFO - Generating 3 Q&A pairs from chunk 17/39 of 'Healthline � Gut Health Articles/healthline_reset_gut_health.txt'
+2025-09-03 14:51:09,328 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 14:51:09,330 - INFO - Generating 3 Q&A pairs from chunk 18/39 of 'Healthline � Gut Health Articles/healthline_reset_gut_health.txt'
+2025-09-03 14:51:11,182 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 14:51:11,184 - INFO - Generating 3 Q&A pairs from chunk 19/39 of 'Healthline � Gut Health Articles/healthline_reset_gut_health.txt'
+2025-09-03 14:51:13,629 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 14:51:13,631 - INFO - Generating 3 Q&A pairs from chunk 20/39 of 'Healthline � Gut Health Articles/healthline_reset_gut_health.txt'
+2025-09-03 14:51:16,393 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 14:51:16,395 - INFO - Generating 3 Q&A pairs from chunk 21/39 of 'Healthline � Gut Health Articles/healthline_reset_gut_health.txt'
+2025-09-03 14:51:18,463 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 14:51:18,466 - INFO - Generating 3 Q&A pairs from chunk 22/39 of 'Healthline � Gut Health Articles/healthline_reset_gut_health.txt'
+2025-09-03 14:51:20,695 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 14:51:20,697 - INFO - Generating 3 Q&A pairs from chunk 23/39 of 'Healthline � Gut Health Articles/healthline_reset_gut_health.txt'
+2025-09-03 14:51:22,904 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 14:51:22,907 - INFO - Generating 3 Q&A pairs from chunk 24/39 of 'Healthline � Gut Health Articles/healthline_reset_gut_health.txt'
+2025-09-03 14:51:25,310 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 14:51:25,312 - INFO - Generating 3 Q&A pairs from chunk 25/39 of 'Healthline � Gut Health Articles/healthline_reset_gut_health.txt'
+2025-09-03 14:51:27,350 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 14:51:27,352 - INFO - Generating 3 Q&A pairs from chunk 26/39 of 'Healthline � Gut Health Articles/healthline_reset_gut_health.txt'
+2025-09-03 14:51:30,037 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 14:51:30,039 - INFO - Generating 3 Q&A pairs from chunk 27/39 of 'Healthline � Gut Health Articles/healthline_reset_gut_health.txt'
+2025-09-03 14:51:32,658 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 14:51:32,659 - INFO - Generating 3 Q&A pairs from chunk 28/39 of 'Healthline � Gut Health Articles/healthline_reset_gut_health.txt'
+2025-09-03 14:51:34,616 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 14:51:34,618 - INFO - Generating 3 Q&A pairs from chunk 29/39 of 'Healthline � Gut Health Articles/healthline_reset_gut_health.txt'
+2025-09-03 14:51:36,218 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 14:51:36,222 - INFO - Generating 3 Q&A pairs from chunk 30/39 of 'Healthline � Gut Health Articles/healthline_reset_gut_health.txt'
+2025-09-03 14:51:38,337 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 14:51:38,339 - INFO - Generating 3 Q&A pairs from chunk 31/39 of 'Healthline � Gut Health Articles/healthline_reset_gut_health.txt'
+2025-09-03 14:51:40,967 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 14:51:40,970 - INFO - Generating 3 Q&A pairs from chunk 32/39 of 'Healthline � Gut Health Articles/healthline_reset_gut_health.txt'
+2025-09-03 14:51:43,493 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 14:51:43,496 - INFO - Generating 3 Q&A pairs from chunk 33/39 of 'Healthline � Gut Health Articles/healthline_reset_gut_health.txt'
+2025-09-03 14:51:45,987 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 14:51:45,989 - INFO - Generating 3 Q&A pairs from chunk 34/39 of 'Healthline � Gut Health Articles/healthline_reset_gut_health.txt'
+2025-09-03 14:51:48,249 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 14:51:48,251 - INFO - Generating 3 Q&A pairs from chunk 35/39 of 'Healthline � Gut Health Articles/healthline_reset_gut_health.txt'
+2025-09-03 14:51:51,102 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 14:51:51,104 - INFO - Generating 3 Q&A pairs from chunk 36/39 of 'Healthline � Gut Health Articles/healthline_reset_gut_health.txt'
+2025-09-03 14:51:53,452 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 14:51:53,454 - INFO - Generating 3 Q&A pairs from chunk 37/39 of 'Healthline � Gut Health Articles/healthline_reset_gut_health.txt'
+2025-09-03 14:51:55,612 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 14:51:55,618 - INFO - Generating 3 Q&A pairs from chunk 38/39 of 'Healthline � Gut Health Articles/healthline_reset_gut_health.txt'
+2025-09-03 14:51:57,660 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 14:51:57,663 - INFO - Generating 3 Q&A pairs from chunk 39/39 of 'Healthline � Gut Health Articles/healthline_reset_gut_health.txt'
+2025-09-03 14:51:59,795 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 14:51:59,797 - INFO - Generated 117 Q&A pairs for 'Healthline � Gut Health Articles/healthline_reset_gut_health.txt'
+2025-09-03 14:51:59,798 - INFO - Successfully processed 'Healthline � Gut Health Articles/healthline_reset_gut_health.txt' - Generated 117 Q&A pairs
+2025-09-03 14:51:59,799 - INFO - Processing file 9/34: Healthline � Gut Health Articles/healthline_microbiome_health.txt
+2025-09-03 14:51:59,844 - INFO - Read 12939 characters from 'Healthline � Gut Health Articles/healthline_microbiome_health.txt'
+2025-09-03 14:51:59,848 - INFO - Generating 30 Q&A pairs from chunk 1/5 of 'Healthline � Gut Health Articles/healthline_microbiome_health.txt'
+2025-09-03 14:52:04,317 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 14:52:08,714 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 14:52:13,225 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 14:52:13,228 - INFO - Generating 30 Q&A pairs from chunk 2/5 of 'Healthline � Gut Health Articles/healthline_microbiome_health.txt'
+2025-09-03 14:52:16,763 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 14:52:21,135 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 14:52:24,809 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 14:52:24,812 - INFO - Generating 30 Q&A pairs from chunk 3/5 of 'Healthline � Gut Health Articles/healthline_microbiome_health.txt'
+2025-09-03 14:52:28,512 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 14:52:32,269 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 14:52:35,975 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 14:52:35,977 - INFO - Generating 30 Q&A pairs from chunk 4/5 of 'Healthline � Gut Health Articles/healthline_microbiome_health.txt'
+2025-09-03 14:52:40,733 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 14:52:40,735 - ERROR - Failed to parse JSON response: Expecting ',' delimiter: line 40 column 128 (char 3577)
+2025-09-03 14:52:40,736 - INFO - Manually extracted 0 Q&A pairs
+2025-09-03 14:52:45,581 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 14:52:45,583 - ERROR - Failed to parse JSON response: Expecting ',' delimiter: line 40 column 128 (char 3577)
+2025-09-03 14:52:45,583 - INFO - Manually extracted 0 Q&A pairs
+2025-09-03 14:52:50,353 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 14:52:50,356 - ERROR - Failed to parse JSON response: Expecting ',' delimiter: line 40 column 128 (char 3577)
+2025-09-03 14:52:50,357 - INFO - Manually extracted 0 Q&A pairs
+2025-09-03 14:52:50,357 - INFO - Generating 30 Q&A pairs from chunk 5/5 of 'Healthline � Gut Health Articles/healthline_microbiome_health.txt'
+2025-09-03 14:52:53,351 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 14:52:56,375 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 14:52:59,510 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 14:52:59,514 - INFO - Generated 120 Q&A pairs for 'Healthline � Gut Health Articles/healthline_microbiome_health.txt'
+2025-09-03 14:52:59,514 - INFO - Successfully processed 'Healthline � Gut Health Articles/healthline_microbiome_health.txt' - Generated 120 Q&A pairs
+2025-09-03 14:52:59,515 - INFO - Processing file 10/34: Healthline � Gut Health Articles/healthline_doctor_perspective.txt
+2025-09-03 14:52:59,561 - INFO - Read 6995 characters from 'Healthline � Gut Health Articles/healthline_doctor_perspective.txt'
+2025-09-03 14:52:59,564 - INFO - Generating 50 Q&A pairs from chunk 1/3 of 'Healthline � Gut Health Articles/healthline_doctor_perspective.txt'
+2025-09-03 14:53:03,621 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 14:53:07,704 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 14:53:11,743 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 14:53:15,792 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 14:53:19,888 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 14:53:19,890 - INFO - Generating 50 Q&A pairs from chunk 2/3 of 'Healthline � Gut Health Articles/healthline_doctor_perspective.txt'
+2025-09-03 14:53:25,622 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 14:53:31,363 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 14:53:37,112 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 14:53:42,885 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 14:53:48,662 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 14:53:48,666 - INFO - Generating 50 Q&A pairs from chunk 3/3 of 'Healthline � Gut Health Articles/healthline_doctor_perspective.txt'
+2025-09-03 14:53:52,416 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 14:53:56,342 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 14:54:00,078 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 14:54:03,920 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 14:54:07,714 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 14:54:07,718 - INFO - Generated 150 Q&A pairs for 'Healthline � Gut Health Articles/healthline_doctor_perspective.txt'
+2025-09-03 14:54:07,720 - INFO - Successfully processed 'Healthline � Gut Health Articles/healthline_doctor_perspective.txt' - Generated 150 Q&A pairs
+2025-09-03 14:54:07,720 - INFO - Processing file 11/34: Healthline � Gut Health Articles/healthline_probiotics_prebiotics.txt
+2025-09-03 14:54:07,722 - INFO - Read 7629 characters from 'Healthline � Gut Health Articles/healthline_probiotics_prebiotics.txt'
+2025-09-03 14:54:07,725 - INFO - Generating 50 Q&A pairs from chunk 1/3 of 'Healthline � Gut Health Articles/healthline_probiotics_prebiotics.txt'
+2025-09-03 14:54:11,804 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 14:54:15,771 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 14:54:19,792 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 14:54:23,785 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 14:54:27,743 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 14:54:27,745 - INFO - Generating 50 Q&A pairs from chunk 2/3 of 'Healthline � Gut Health Articles/healthline_probiotics_prebiotics.txt'
+2025-09-03 14:54:32,284 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 14:54:36,888 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 14:54:41,409 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 14:54:45,967 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 14:54:50,479 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 14:54:50,481 - INFO - Generating 50 Q&A pairs from chunk 3/3 of 'Healthline � Gut Health Articles/healthline_probiotics_prebiotics.txt'
+2025-09-03 14:54:55,304 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 14:55:00,150 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 14:55:04,974 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 14:55:09,822 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 14:55:14,779 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 14:55:14,781 - INFO - Generated 150 Q&A pairs for 'Healthline � Gut Health Articles/healthline_probiotics_prebiotics.txt'
+2025-09-03 14:55:14,782 - INFO - Successfully processed 'Healthline � Gut Health Articles/healthline_probiotics_prebiotics.txt' - Generated 150 Q&A pairs
+2025-09-03 14:55:14,783 - INFO - Processing file 12/34: Healthline � Gut Health Articles/healthline_improve_digestion.txt
+2025-09-03 14:55:14,829 - INFO - Read 8543 characters from 'Healthline � Gut Health Articles/healthline_improve_digestion.txt'
+2025-09-03 14:55:14,831 - INFO - Generating 50 Q&A pairs from chunk 1/3 of 'Healthline � Gut Health Articles/healthline_improve_digestion.txt'
+2025-09-03 14:55:19,793 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 14:55:24,784 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 14:55:29,833 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 14:55:34,853 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 14:55:39,818 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 14:55:39,821 - INFO - Generating 50 Q&A pairs from chunk 2/3 of 'Healthline � Gut Health Articles/healthline_improve_digestion.txt'
+2025-09-03 14:55:44,269 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 14:55:48,634 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 14:55:53,029 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 14:55:57,685 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 14:56:02,088 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 14:56:02,090 - INFO - Generating 50 Q&A pairs from chunk 3/3 of 'Healthline � Gut Health Articles/healthline_improve_digestion.txt'
+2025-09-03 14:56:06,205 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 14:56:10,345 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 14:56:14,581 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 14:56:18,700 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 14:56:22,830 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 14:56:22,832 - INFO - Generated 150 Q&A pairs for 'Healthline � Gut Health Articles/healthline_improve_digestion.txt'
+2025-09-03 14:56:22,833 - INFO - Successfully processed 'Healthline � Gut Health Articles/healthline_improve_digestion.txt' - Generated 150 Q&A pairs
+2025-09-03 14:56:22,833 - INFO - Processing file 13/34: Healthline � Gut Health Articles/healthline_probiotic_foods.txt
+2025-09-03 14:56:22,880 - INFO - Read 10658 characters from 'Healthline � Gut Health Articles/healthline_probiotic_foods.txt'
+2025-09-03 14:56:22,884 - INFO - Generating 37 Q&A pairs from chunk 1/4 of 'Healthline � Gut Health Articles/healthline_probiotic_foods.txt'
+2025-09-03 14:56:27,689 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 14:56:32,296 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 14:56:36,814 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 14:56:41,100 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 14:56:41,102 - INFO - Generating 37 Q&A pairs from chunk 2/4 of 'Healthline � Gut Health Articles/healthline_probiotic_foods.txt'
+2025-09-03 14:56:45,133 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 14:56:49,198 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 14:56:53,257 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 14:56:56,700 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 14:56:56,702 - INFO - Generating 37 Q&A pairs from chunk 3/4 of 'Healthline � Gut Health Articles/healthline_probiotic_foods.txt'
+2025-09-03 14:57:01,720 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 14:57:06,805 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 14:57:11,939 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 14:57:15,233 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 14:57:15,235 - ERROR - Failed to parse JSON response: Expecting ',' delimiter: line 16 column 150 (char 1318)
+2025-09-03 14:57:15,236 - INFO - Manually extracted 0 Q&A pairs
+2025-09-03 14:57:15,237 - INFO - Generating 37 Q&A pairs from chunk 4/4 of 'Healthline � Gut Health Articles/healthline_probiotic_foods.txt'
+2025-09-03 14:57:19,449 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 14:57:23,701 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 14:57:27,877 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 14:57:30,705 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 14:57:30,707 - INFO - Generated 141 Q&A pairs for 'Healthline � Gut Health Articles/healthline_probiotic_foods.txt'
+2025-09-03 14:57:30,707 - INFO - Successfully processed 'Healthline � Gut Health Articles/healthline_probiotic_foods.txt' - Generated 141 Q&A pairs
+2025-09-03 14:57:30,709 - INFO - Processing file 14/34: Healthline � Gut Health Articles/healthline_gut_reset.txt
+2025-09-03 14:57:30,755 - INFO - Read 10387 characters from 'Healthline � Gut Health Articles/healthline_gut_reset.txt'
+2025-09-03 14:57:30,757 - INFO - Generating 37 Q&A pairs from chunk 1/4 of 'Healthline � Gut Health Articles/healthline_gut_reset.txt'
+2025-09-03 14:57:35,618 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 14:57:40,469 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 14:57:45,410 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 14:57:49,608 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 14:57:49,609 - INFO - Generating 37 Q&A pairs from chunk 2/4 of 'Healthline � Gut Health Articles/healthline_gut_reset.txt'
+2025-09-03 14:57:54,327 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 14:57:59,337 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 14:58:04,046 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 14:58:07,512 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 14:58:07,514 - INFO - Generating 37 Q&A pairs from chunk 3/4 of 'Healthline � Gut Health Articles/healthline_gut_reset.txt'
+2025-09-03 14:58:12,546 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 14:58:17,215 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 14:58:22,068 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 14:58:25,278 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 14:58:25,283 - INFO - Generating 37 Q&A pairs from chunk 4/4 of 'Healthline � Gut Health Articles/healthline_gut_reset.txt'
+2025-09-03 14:58:28,638 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 14:58:31,874 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 14:58:35,096 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 14:58:37,687 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 14:58:37,688 - INFO - Generated 148 Q&A pairs for 'Healthline � Gut Health Articles/healthline_gut_reset.txt'
+2025-09-03 14:58:37,688 - INFO - Successfully processed 'Healthline � Gut Health Articles/healthline_gut_reset.txt' - Generated 148 Q&A pairs
+2025-09-03 14:58:37,689 - INFO - Processing file 15/34: Healthline � Gut Health Articles/healthline_disease_in_gut.txt
+2025-09-03 14:58:37,734 - INFO - Read 18355 characters from 'Healthline � Gut Health Articles/healthline_disease_in_gut.txt'
+2025-09-03 14:58:37,773 - INFO - Generating 21 Q&A pairs from chunk 1/7 of 'Healthline � Gut Health Articles/healthline_disease_in_gut.txt'
+2025-09-03 14:58:42,141 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 14:58:46,359 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 14:58:47,466 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 14:58:47,467 - INFO - Generating 21 Q&A pairs from chunk 2/7 of 'Healthline � Gut Health Articles/healthline_disease_in_gut.txt'
+2025-09-03 14:58:51,105 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 14:58:54,643 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 14:58:55,743 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 14:58:55,745 - INFO - Generating 21 Q&A pairs from chunk 3/7 of 'Healthline � Gut Health Articles/healthline_disease_in_gut.txt'
+2025-09-03 14:58:59,343 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 14:59:02,824 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 14:59:03,677 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 14:59:03,681 - INFO - Generating 21 Q&A pairs from chunk 4/7 of 'Healthline � Gut Health Articles/healthline_disease_in_gut.txt'
+2025-09-03 14:59:07,024 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 14:59:10,337 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 14:59:11,736 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 14:59:11,738 - INFO - Generating 21 Q&A pairs from chunk 5/7 of 'Healthline � Gut Health Articles/healthline_disease_in_gut.txt'
+2025-09-03 14:59:17,703 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 14:59:17,707 - WARNING - No JSON array found in response
+2025-09-03 14:59:23,610 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 14:59:23,612 - WARNING - No JSON array found in response
+2025-09-03 14:59:24,633 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 14:59:24,637 - INFO - Generating 21 Q&A pairs from chunk 6/7 of 'Healthline � Gut Health Articles/healthline_disease_in_gut.txt'
+2025-09-03 14:59:29,758 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 14:59:34,476 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 14:59:36,057 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 14:59:36,060 - INFO - Generating 21 Q&A pairs from chunk 7/7 of 'Healthline � Gut Health Articles/healthline_disease_in_gut.txt'
+2025-09-03 14:59:40,302 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 14:59:44,418 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 14:59:45,244 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 14:59:45,247 - INFO - Generated 127 Q&A pairs for 'Healthline � Gut Health Articles/healthline_disease_in_gut.txt'
+2025-09-03 14:59:45,248 - INFO - Successfully processed 'Healthline � Gut Health Articles/healthline_disease_in_gut.txt' - Generated 127 Q&A pairs
+2025-09-03 14:59:45,248 - INFO - Processing file 16/34: Healthline � Gut Health Articles/healthline_gut_facts.txt
+2025-09-03 14:59:45,249 - INFO - Read 7197 characters from 'Healthline � Gut Health Articles/healthline_gut_facts.txt'
+2025-09-03 14:59:45,251 - INFO - Generating 50 Q&A pairs from chunk 1/3 of 'Healthline � Gut Health Articles/healthline_gut_facts.txt'
+2025-09-03 14:59:49,831 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 14:59:54,537 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 14:59:59,138 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:00:03,719 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:00:08,348 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:00:08,352 - INFO - Generating 50 Q&A pairs from chunk 2/3 of 'Healthline � Gut Health Articles/healthline_gut_facts.txt'
+2025-09-03 15:00:12,782 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:00:17,114 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:00:21,359 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:00:25,766 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:00:30,069 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:00:30,071 - INFO - Generating 50 Q&A pairs from chunk 3/3 of 'Healthline � Gut Health Articles/healthline_gut_facts.txt'
+2025-09-03 15:00:33,950 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:00:37,885 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:00:41,845 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:00:45,818 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:00:49,730 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:00:49,732 - INFO - Generated 150 Q&A pairs for 'Healthline � Gut Health Articles/healthline_gut_facts.txt'
+2025-09-03 15:00:49,732 - INFO - Successfully processed 'Healthline � Gut Health Articles/healthline_gut_facts.txt' - Generated 150 Q&A pairs
+2025-09-03 15:00:49,733 - INFO - Processing file 17/34: NIH � Digestive Disorders/nih_digestive_disorders.txt
+2025-09-03 15:00:49,735 - INFO - Read 18694 characters from 'NIH � Digestive Disorders/nih_digestive_disorders.txt'
+2025-09-03 15:00:49,737 - INFO - Generating 21 Q&A pairs from chunk 1/7 of 'NIH � Digestive Disorders/nih_digestive_disorders.txt'
+2025-09-03 15:00:53,968 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:00:58,196 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:00:59,458 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:00:59,461 - INFO - Generating 21 Q&A pairs from chunk 2/7 of 'NIH � Digestive Disorders/nih_digestive_disorders.txt'
+2025-09-03 15:01:05,360 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:01:05,365 - WARNING - No JSON array found in response
+2025-09-03 15:01:11,349 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:01:11,351 - WARNING - No JSON array found in response
+2025-09-03 15:01:12,415 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:01:12,417 - INFO - Generating 21 Q&A pairs from chunk 3/7 of 'NIH � Digestive Disorders/nih_digestive_disorders.txt'
+2025-09-03 15:01:18,272 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:01:24,242 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:01:25,163 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:01:25,165 - INFO - Generating 21 Q&A pairs from chunk 4/7 of 'NIH � Digestive Disorders/nih_digestive_disorders.txt'
+2025-09-03 15:01:29,974 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:01:34,787 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:01:35,910 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:01:35,916 - INFO - Generating 21 Q&A pairs from chunk 5/7 of 'NIH � Digestive Disorders/nih_digestive_disorders.txt'
+2025-09-03 15:01:41,070 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:01:41,072 - ERROR - Failed to parse JSON response: Expecting property name enclosed in double quotes: line 20 column 5 (char 1895)
+2025-09-03 15:01:41,073 - INFO - Manually extracted 0 Q&A pairs
+2025-09-03 15:01:46,220 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:01:46,222 - ERROR - Failed to parse JSON response: Expecting property name enclosed in double quotes: line 20 column 5 (char 1895)
+2025-09-03 15:01:46,223 - INFO - Manually extracted 0 Q&A pairs
+2025-09-03 15:01:47,283 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:01:47,285 - INFO - Generating 21 Q&A pairs from chunk 6/7 of 'NIH � Digestive Disorders/nih_digestive_disorders.txt'
+2025-09-03 15:01:53,424 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:01:53,427 - WARNING - No JSON array found in response
+2025-09-03 15:01:59,772 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:01:59,777 - WARNING - No JSON array found in response
+2025-09-03 15:02:01,410 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:02:01,413 - INFO - Generating 21 Q&A pairs from chunk 7/7 of 'NIH � Digestive Disorders/nih_digestive_disorders.txt'
+2025-09-03 15:02:06,534 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:02:11,753 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:02:12,983 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:02:12,986 - INFO - Generated 87 Q&A pairs for 'NIH � Digestive Disorders/nih_digestive_disorders.txt'
+2025-09-03 15:02:12,987 - INFO - Successfully processed 'NIH � Digestive Disorders/nih_digestive_disorders.txt' - Generated 87 Q&A pairs
+2025-09-03 15:02:12,987 - INFO - Processing file 18/34: NIH � Digestive Disorders/nih_gut_microbiota_chronic.txt
+2025-09-03 15:02:12,989 - INFO - Read 63886 characters from 'NIH � Digestive Disorders/nih_gut_microbiota_chronic.txt'
+2025-09-03 15:02:12,998 - INFO - Generating 6 Q&A pairs from chunk 1/22 of 'NIH � Digestive Disorders/nih_gut_microbiota_chronic.txt'
+2025-09-03 15:02:16,032 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:02:16,034 - INFO - Generating 6 Q&A pairs from chunk 2/22 of 'NIH � Digestive Disorders/nih_gut_microbiota_chronic.txt'
+2025-09-03 15:02:19,337 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:02:19,339 - INFO - Generating 6 Q&A pairs from chunk 3/22 of 'NIH � Digestive Disorders/nih_gut_microbiota_chronic.txt'
+2025-09-03 15:02:22,324 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:02:22,325 - INFO - Generating 6 Q&A pairs from chunk 4/22 of 'NIH � Digestive Disorders/nih_gut_microbiota_chronic.txt'
+2025-09-03 15:02:26,611 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:02:26,614 - INFO - Generating 6 Q&A pairs from chunk 5/22 of 'NIH � Digestive Disorders/nih_gut_microbiota_chronic.txt'
+2025-09-03 15:02:30,283 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:02:30,284 - INFO - Generating 6 Q&A pairs from chunk 6/22 of 'NIH � Digestive Disorders/nih_gut_microbiota_chronic.txt'
+2025-09-03 15:02:33,506 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:02:33,509 - INFO - Generating 6 Q&A pairs from chunk 7/22 of 'NIH � Digestive Disorders/nih_gut_microbiota_chronic.txt'
+2025-09-03 15:02:37,252 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:02:37,255 - INFO - Generating 6 Q&A pairs from chunk 8/22 of 'NIH � Digestive Disorders/nih_gut_microbiota_chronic.txt'
+2025-09-03 15:02:40,554 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:02:40,557 - INFO - Generating 6 Q&A pairs from chunk 9/22 of 'NIH � Digestive Disorders/nih_gut_microbiota_chronic.txt'
+2025-09-03 15:02:43,744 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:02:43,746 - INFO - Generating 6 Q&A pairs from chunk 10/22 of 'NIH � Digestive Disorders/nih_gut_microbiota_chronic.txt'
+2025-09-03 15:02:46,555 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:02:46,557 - INFO - Generating 6 Q&A pairs from chunk 11/22 of 'NIH � Digestive Disorders/nih_gut_microbiota_chronic.txt'
+2025-09-03 15:02:50,367 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:02:50,370 - INFO - Generating 6 Q&A pairs from chunk 12/22 of 'NIH � Digestive Disorders/nih_gut_microbiota_chronic.txt'
+2025-09-03 15:02:53,632 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:02:53,634 - INFO - Generating 6 Q&A pairs from chunk 13/22 of 'NIH � Digestive Disorders/nih_gut_microbiota_chronic.txt'
+2025-09-03 15:02:56,345 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:02:56,347 - INFO - Generating 6 Q&A pairs from chunk 14/22 of 'NIH � Digestive Disorders/nih_gut_microbiota_chronic.txt'
+2025-09-03 15:03:02,558 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:03:02,562 - WARNING - No JSON array found in response
+2025-09-03 15:03:02,562 - INFO - Generating 6 Q&A pairs from chunk 15/22 of 'NIH � Digestive Disorders/nih_gut_microbiota_chronic.txt'
+2025-09-03 15:03:05,920 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:03:05,922 - INFO - Generating 6 Q&A pairs from chunk 16/22 of 'NIH � Digestive Disorders/nih_gut_microbiota_chronic.txt'
+2025-09-03 15:03:11,931 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:03:11,933 - WARNING - No JSON array found in response
+2025-09-03 15:03:11,933 - INFO - Generating 6 Q&A pairs from chunk 17/22 of 'NIH � Digestive Disorders/nih_gut_microbiota_chronic.txt'
+2025-09-03 15:03:15,445 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:03:15,447 - INFO - Generating 6 Q&A pairs from chunk 18/22 of 'NIH � Digestive Disorders/nih_gut_microbiota_chronic.txt'
+2025-09-03 15:03:19,058 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:03:19,060 - INFO - Generating 6 Q&A pairs from chunk 19/22 of 'NIH � Digestive Disorders/nih_gut_microbiota_chronic.txt'
+2025-09-03 15:03:23,964 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:03:23,969 - ERROR - Failed to parse JSON response: Expecting property name enclosed in double quotes: line 12 column 8 (char 1257)
+2025-09-03 15:03:23,970 - INFO - Manually extracted 0 Q&A pairs
+2025-09-03 15:03:23,971 - INFO - Generating 6 Q&A pairs from chunk 20/22 of 'NIH � Digestive Disorders/nih_gut_microbiota_chronic.txt'
+2025-09-03 15:03:30,087 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:03:30,090 - WARNING - No JSON array found in response
+2025-09-03 15:03:30,090 - INFO - Generating 6 Q&A pairs from chunk 21/22 of 'NIH � Digestive Disorders/nih_gut_microbiota_chronic.txt'
+2025-09-03 15:03:36,161 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:03:36,164 - WARNING - No JSON array found in response
+2025-09-03 15:03:36,165 - INFO - Generating 6 Q&A pairs from chunk 22/22 of 'NIH � Digestive Disorders/nih_gut_microbiota_chronic.txt'
+2025-09-03 15:03:42,070 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:03:42,071 - INFO - Generated 102 Q&A pairs for 'NIH � Digestive Disorders/nih_gut_microbiota_chronic.txt'
+2025-09-03 15:03:42,073 - INFO - Successfully processed 'NIH � Digestive Disorders/nih_gut_microbiota_chronic.txt' - Generated 102 Q&A pairs
+2025-09-03 15:03:42,073 - INFO - Processing file 19/34: NIH � Digestive Disorders/nih_update_gut_microbiota.txt
+2025-09-03 15:03:42,074 - INFO - Read 64052 characters from 'NIH � Digestive Disorders/nih_update_gut_microbiota.txt'
+2025-09-03 15:03:42,078 - INFO - Generating 6 Q&A pairs from chunk 1/22 of 'NIH � Digestive Disorders/nih_update_gut_microbiota.txt'
+2025-09-03 15:03:44,835 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:03:44,838 - INFO - Generating 6 Q&A pairs from chunk 2/22 of 'NIH � Digestive Disorders/nih_update_gut_microbiota.txt'
+2025-09-03 15:03:48,333 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:03:48,336 - INFO - Generating 6 Q&A pairs from chunk 3/22 of 'NIH � Digestive Disorders/nih_update_gut_microbiota.txt'
+2025-09-03 15:03:51,836 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:03:51,839 - INFO - Generating 6 Q&A pairs from chunk 4/22 of 'NIH � Digestive Disorders/nih_update_gut_microbiota.txt'
+2025-09-03 15:03:56,102 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:03:56,104 - INFO - Generating 6 Q&A pairs from chunk 5/22 of 'NIH � Digestive Disorders/nih_update_gut_microbiota.txt'
+2025-09-03 15:03:59,745 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:03:59,747 - INFO - Generating 6 Q&A pairs from chunk 6/22 of 'NIH � Digestive Disorders/nih_update_gut_microbiota.txt'
+2025-09-03 15:04:03,163 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:04:03,164 - INFO - Generating 6 Q&A pairs from chunk 7/22 of 'NIH � Digestive Disorders/nih_update_gut_microbiota.txt'
+2025-09-03 15:04:06,297 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:04:06,299 - INFO - Generating 6 Q&A pairs from chunk 8/22 of 'NIH � Digestive Disorders/nih_update_gut_microbiota.txt'
+2025-09-03 15:04:09,933 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:04:09,936 - INFO - Generating 6 Q&A pairs from chunk 9/22 of 'NIH � Digestive Disorders/nih_update_gut_microbiota.txt'
+2025-09-03 15:04:13,707 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:04:13,711 - INFO - Generating 6 Q&A pairs from chunk 10/22 of 'NIH � Digestive Disorders/nih_update_gut_microbiota.txt'
+2025-09-03 15:04:17,110 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:04:17,112 - INFO - Generating 6 Q&A pairs from chunk 11/22 of 'NIH � Digestive Disorders/nih_update_gut_microbiota.txt'
+2025-09-03 15:04:20,775 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:04:20,777 - INFO - Generating 6 Q&A pairs from chunk 12/22 of 'NIH � Digestive Disorders/nih_update_gut_microbiota.txt'
+2025-09-03 15:04:23,706 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:04:23,708 - INFO - Generating 6 Q&A pairs from chunk 13/22 of 'NIH � Digestive Disorders/nih_update_gut_microbiota.txt'
+2025-09-03 15:04:26,413 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:04:26,415 - INFO - Generating 6 Q&A pairs from chunk 14/22 of 'NIH � Digestive Disorders/nih_update_gut_microbiota.txt'
+2025-09-03 15:04:31,117 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:04:31,119 - INFO - Generating 6 Q&A pairs from chunk 15/22 of 'NIH � Digestive Disorders/nih_update_gut_microbiota.txt'
+2025-09-03 15:04:34,920 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:04:34,922 - INFO - Generating 6 Q&A pairs from chunk 16/22 of 'NIH � Digestive Disorders/nih_update_gut_microbiota.txt'
+2025-09-03 15:04:39,516 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:04:39,518 - WARNING - No JSON array found in response
+2025-09-03 15:04:39,519 - INFO - Generating 6 Q&A pairs from chunk 17/22 of 'NIH � Digestive Disorders/nih_update_gut_microbiota.txt'
+2025-09-03 15:04:45,546 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:04:45,549 - WARNING - No JSON array found in response
+2025-09-03 15:04:45,550 - INFO - Generating 6 Q&A pairs from chunk 18/22 of 'NIH � Digestive Disorders/nih_update_gut_microbiota.txt'
+2025-09-03 15:04:50,575 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:04:50,577 - INFO - Generating 6 Q&A pairs from chunk 19/22 of 'NIH � Digestive Disorders/nih_update_gut_microbiota.txt'
+2025-09-03 15:04:55,080 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:04:55,082 - INFO - Generating 6 Q&A pairs from chunk 20/22 of 'NIH � Digestive Disorders/nih_update_gut_microbiota.txt'
+2025-09-03 15:04:58,562 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:04:58,564 - INFO - Generating 6 Q&A pairs from chunk 21/22 of 'NIH � Digestive Disorders/nih_update_gut_microbiota.txt'
+2025-09-03 15:05:02,658 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:05:02,660 - INFO - Generating 6 Q&A pairs from chunk 22/22 of 'NIH � Digestive Disorders/nih_update_gut_microbiota.txt'
+2025-09-03 15:05:07,469 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:05:07,472 - INFO - Generated 120 Q&A pairs for 'NIH � Digestive Disorders/nih_update_gut_microbiota.txt'
+2025-09-03 15:05:07,472 - INFO - Successfully processed 'NIH � Digestive Disorders/nih_update_gut_microbiota.txt' - Generated 120 Q&A pairs
+2025-09-03 15:05:07,474 - INFO - Processing file 20/34: NIH � Digestive Disorders/nih_microbiome_review.txt
+2025-09-03 15:05:07,477 - INFO - Read 105154 characters from 'NIH � Digestive Disorders/nih_microbiome_review.txt'
+2025-09-03 15:05:07,490 - INFO - Generating 4 Q&A pairs from chunk 1/36 of 'NIH � Digestive Disorders/nih_microbiome_review.txt'
+2025-09-03 15:05:09,622 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:05:09,624 - INFO - Generating 4 Q&A pairs from chunk 2/36 of 'NIH � Digestive Disorders/nih_microbiome_review.txt'
+2025-09-03 15:05:12,179 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:05:12,181 - INFO - Generating 4 Q&A pairs from chunk 3/36 of 'NIH � Digestive Disorders/nih_microbiome_review.txt'
+2025-09-03 15:05:15,150 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:05:15,152 - INFO - Generating 4 Q&A pairs from chunk 4/36 of 'NIH � Digestive Disorders/nih_microbiome_review.txt'
+2025-09-03 15:05:17,688 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:05:17,691 - INFO - Generating 4 Q&A pairs from chunk 5/36 of 'NIH � Digestive Disorders/nih_microbiome_review.txt'
+2025-09-03 15:05:20,782 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:05:20,784 - INFO - Generating 4 Q&A pairs from chunk 6/36 of 'NIH � Digestive Disorders/nih_microbiome_review.txt'
+2025-09-03 15:05:23,547 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:05:23,550 - INFO - Generating 4 Q&A pairs from chunk 7/36 of 'NIH � Digestive Disorders/nih_microbiome_review.txt'
+2025-09-03 15:05:26,210 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:05:26,212 - INFO - Generating 4 Q&A pairs from chunk 8/36 of 'NIH � Digestive Disorders/nih_microbiome_review.txt'
+2025-09-03 15:05:28,408 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:05:28,410 - INFO - Generating 4 Q&A pairs from chunk 9/36 of 'NIH � Digestive Disorders/nih_microbiome_review.txt'
+2025-09-03 15:05:31,276 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:05:31,277 - INFO - Generating 4 Q&A pairs from chunk 10/36 of 'NIH � Digestive Disorders/nih_microbiome_review.txt'
+2025-09-03 15:05:34,298 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:05:34,301 - INFO - Generating 4 Q&A pairs from chunk 11/36 of 'NIH � Digestive Disorders/nih_microbiome_review.txt'
+2025-09-03 15:05:36,840 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:05:36,843 - INFO - Generating 4 Q&A pairs from chunk 12/36 of 'NIH � Digestive Disorders/nih_microbiome_review.txt'
+2025-09-03 15:05:39,665 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:05:39,669 - INFO - Generating 4 Q&A pairs from chunk 13/36 of 'NIH � Digestive Disorders/nih_microbiome_review.txt'
+2025-09-03 15:05:42,387 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:05:42,388 - INFO - Generating 4 Q&A pairs from chunk 14/36 of 'NIH � Digestive Disorders/nih_microbiome_review.txt'
+2025-09-03 15:05:45,412 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:05:45,414 - INFO - Generating 4 Q&A pairs from chunk 15/36 of 'NIH � Digestive Disorders/nih_microbiome_review.txt'
+2025-09-03 15:05:48,679 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:05:48,681 - INFO - Generating 4 Q&A pairs from chunk 16/36 of 'NIH � Digestive Disorders/nih_microbiome_review.txt'
+2025-09-03 15:05:50,992 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:05:50,994 - INFO - Generating 4 Q&A pairs from chunk 17/36 of 'NIH � Digestive Disorders/nih_microbiome_review.txt'
+2025-09-03 15:05:53,921 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:05:53,923 - INFO - Generating 4 Q&A pairs from chunk 18/36 of 'NIH � Digestive Disorders/nih_microbiome_review.txt'
+2025-09-03 15:05:56,171 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:05:56,174 - INFO - Generating 4 Q&A pairs from chunk 19/36 of 'NIH � Digestive Disorders/nih_microbiome_review.txt'
+2025-09-03 15:05:58,602 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:05:58,605 - INFO - Generating 4 Q&A pairs from chunk 20/36 of 'NIH � Digestive Disorders/nih_microbiome_review.txt'
+2025-09-03 15:06:01,127 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:06:01,129 - INFO - Generating 4 Q&A pairs from chunk 21/36 of 'NIH � Digestive Disorders/nih_microbiome_review.txt'
+2025-09-03 15:06:03,654 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:06:03,656 - INFO - Generating 4 Q&A pairs from chunk 22/36 of 'NIH � Digestive Disorders/nih_microbiome_review.txt'
+2025-09-03 15:06:06,411 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:06:06,413 - INFO - Generating 4 Q&A pairs from chunk 23/36 of 'NIH � Digestive Disorders/nih_microbiome_review.txt'
+2025-09-03 15:06:09,115 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:06:09,119 - INFO - Generating 4 Q&A pairs from chunk 24/36 of 'NIH � Digestive Disorders/nih_microbiome_review.txt'
+2025-09-03 15:06:13,487 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:06:13,489 - INFO - Generating 4 Q&A pairs from chunk 25/36 of 'NIH � Digestive Disorders/nih_microbiome_review.txt'
+2025-09-03 15:06:16,767 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:06:16,769 - INFO - Generating 4 Q&A pairs from chunk 26/36 of 'NIH � Digestive Disorders/nih_microbiome_review.txt'
+2025-09-03 15:06:20,631 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:06:20,633 - INFO - Generating 4 Q&A pairs from chunk 27/36 of 'NIH � Digestive Disorders/nih_microbiome_review.txt'
+2025-09-03 15:06:23,962 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:06:23,964 - INFO - Generating 4 Q&A pairs from chunk 28/36 of 'NIH � Digestive Disorders/nih_microbiome_review.txt'
+2025-09-03 15:06:27,095 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:06:27,097 - INFO - Generating 4 Q&A pairs from chunk 29/36 of 'NIH � Digestive Disorders/nih_microbiome_review.txt'
+2025-09-03 15:06:30,107 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:06:30,109 - INFO - Generating 4 Q&A pairs from chunk 30/36 of 'NIH � Digestive Disorders/nih_microbiome_review.txt'
+2025-09-03 15:06:33,280 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:06:33,282 - INFO - Generating 4 Q&A pairs from chunk 31/36 of 'NIH � Digestive Disorders/nih_microbiome_review.txt'
+2025-09-03 15:06:39,340 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:06:39,342 - WARNING - No JSON array found in response
+2025-09-03 15:06:39,342 - INFO - Generating 4 Q&A pairs from chunk 32/36 of 'NIH � Digestive Disorders/nih_microbiome_review.txt'
+2025-09-03 15:06:44,955 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:06:44,957 - ERROR - Failed to parse JSON response: Expecting property name enclosed in double quotes: line 16 column 4 (char 1962)
+2025-09-03 15:06:44,958 - INFO - Manually extracted 0 Q&A pairs
+2025-09-03 15:06:44,958 - INFO - Generating 4 Q&A pairs from chunk 33/36 of 'NIH � Digestive Disorders/nih_microbiome_review.txt'
+2025-09-03 15:06:48,519 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:06:48,521 - INFO - Generating 4 Q&A pairs from chunk 34/36 of 'NIH � Digestive Disorders/nih_microbiome_review.txt'
+2025-09-03 15:06:52,327 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:06:52,329 - INFO - Generating 4 Q&A pairs from chunk 35/36 of 'NIH � Digestive Disorders/nih_microbiome_review.txt'
+2025-09-03 15:06:55,614 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:06:55,616 - INFO - Generating 4 Q&A pairs from chunk 36/36 of 'NIH � Digestive Disorders/nih_microbiome_review.txt'
+2025-09-03 15:06:57,373 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:06:57,377 - INFO - Generated 136 Q&A pairs for 'NIH � Digestive Disorders/nih_microbiome_review.txt'
+2025-09-03 15:06:57,377 - INFO - Successfully processed 'NIH � Digestive Disorders/nih_microbiome_review.txt' - Generated 136 Q&A pairs
+2025-09-03 15:06:57,378 - INFO - Processing file 21/34: NIH � Digestive Disorders/nih_human_microbiota.txt
+2025-09-03 15:06:57,383 - INFO - Read 4464 characters from 'NIH � Digestive Disorders/nih_human_microbiota.txt'
+2025-09-03 15:06:57,384 - INFO - Generating 75 Q&A pairs from chunk 1/2 of 'NIH � Digestive Disorders/nih_human_microbiota.txt'
+2025-09-03 15:07:02,378 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:07:07,484 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:07:12,492 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:07:17,734 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:07:22,777 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:07:27,770 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:07:32,756 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:07:36,633 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:07:36,635 - INFO - Generating 75 Q&A pairs from chunk 2/2 of 'NIH � Digestive Disorders/nih_human_microbiota.txt'
+2025-09-03 15:07:41,376 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:07:45,981 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:07:50,693 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:07:55,407 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:08:00,114 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:08:04,983 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:08:09,643 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:08:13,513 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:08:13,515 - INFO - Generated 150 Q&A pairs for 'NIH � Digestive Disorders/nih_human_microbiota.txt'
+2025-09-03 15:08:13,515 - INFO - Successfully processed 'NIH � Digestive Disorders/nih_human_microbiota.txt' - Generated 150 Q&A pairs
+2025-09-03 15:08:13,516 - INFO - Processing file 22/34: NIH � Digestive Disorders/nih_comprehensive_review.txt
+2025-09-03 15:08:13,520 - INFO - Read 278074 characters from 'NIH � Digestive Disorders/nih_comprehensive_review.txt'
+2025-09-03 15:08:13,537 - INFO - Generating 1 Q&A pairs from chunk 1/93 of 'NIH � Digestive Disorders/nih_comprehensive_review.txt'
+2025-09-03 15:08:14,773 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:08:14,775 - INFO - Generating 1 Q&A pairs from chunk 2/93 of 'NIH � Digestive Disorders/nih_comprehensive_review.txt'
+2025-09-03 15:08:16,091 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:08:16,093 - INFO - Generating 1 Q&A pairs from chunk 3/93 of 'NIH � Digestive Disorders/nih_comprehensive_review.txt'
+2025-09-03 15:08:17,269 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:08:17,271 - INFO - Generating 1 Q&A pairs from chunk 4/93 of 'NIH � Digestive Disorders/nih_comprehensive_review.txt'
+2025-09-03 15:08:18,386 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:08:18,389 - INFO - Generating 1 Q&A pairs from chunk 5/93 of 'NIH � Digestive Disorders/nih_comprehensive_review.txt'
+2025-09-03 15:08:19,207 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:08:19,209 - INFO - Generating 1 Q&A pairs from chunk 6/93 of 'NIH � Digestive Disorders/nih_comprehensive_review.txt'
+2025-09-03 15:08:19,702 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:08:19,704 - INFO - Generating 1 Q&A pairs from chunk 7/93 of 'NIH � Digestive Disorders/nih_comprehensive_review.txt'
+2025-09-03 15:08:20,799 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:08:20,802 - INFO - Generating 1 Q&A pairs from chunk 8/93 of 'NIH � Digestive Disorders/nih_comprehensive_review.txt'
+2025-09-03 15:08:22,388 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:08:22,390 - INFO - Generating 1 Q&A pairs from chunk 9/93 of 'NIH � Digestive Disorders/nih_comprehensive_review.txt'
+2025-09-03 15:08:23,460 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:08:23,462 - INFO - Generating 1 Q&A pairs from chunk 10/93 of 'NIH � Digestive Disorders/nih_comprehensive_review.txt'
+2025-09-03 15:08:24,513 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:08:24,517 - INFO - Generating 1 Q&A pairs from chunk 11/93 of 'NIH � Digestive Disorders/nih_comprehensive_review.txt'
+2025-09-03 15:08:25,817 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:08:25,818 - INFO - Generating 1 Q&A pairs from chunk 12/93 of 'NIH � Digestive Disorders/nih_comprehensive_review.txt'
+2025-09-03 15:08:28,512 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:08:28,517 - INFO - Generating 1 Q&A pairs from chunk 13/93 of 'NIH � Digestive Disorders/nih_comprehensive_review.txt'
+2025-09-03 15:08:29,575 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:08:29,577 - INFO - Generating 1 Q&A pairs from chunk 14/93 of 'NIH � Digestive Disorders/nih_comprehensive_review.txt'
+2025-09-03 15:08:30,846 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:08:30,848 - INFO - Generating 1 Q&A pairs from chunk 15/93 of 'NIH � Digestive Disorders/nih_comprehensive_review.txt'
+2025-09-03 15:08:32,057 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:08:32,059 - INFO - Generating 1 Q&A pairs from chunk 16/93 of 'NIH � Digestive Disorders/nih_comprehensive_review.txt'
+2025-09-03 15:08:32,985 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:08:32,986 - INFO - Generating 1 Q&A pairs from chunk 17/93 of 'NIH � Digestive Disorders/nih_comprehensive_review.txt'
+2025-09-03 15:08:33,725 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:08:33,728 - INFO - Generating 1 Q&A pairs from chunk 18/93 of 'NIH � Digestive Disorders/nih_comprehensive_review.txt'
+2025-09-03 15:08:34,913 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:08:34,916 - INFO - Generating 1 Q&A pairs from chunk 19/93 of 'NIH � Digestive Disorders/nih_comprehensive_review.txt'
+2025-09-03 15:08:36,087 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:08:36,089 - INFO - Generating 1 Q&A pairs from chunk 20/93 of 'NIH � Digestive Disorders/nih_comprehensive_review.txt'
+2025-09-03 15:08:37,335 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:08:37,337 - INFO - Generating 1 Q&A pairs from chunk 21/93 of 'NIH � Digestive Disorders/nih_comprehensive_review.txt'
+2025-09-03 15:08:38,718 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:08:38,720 - INFO - Generating 1 Q&A pairs from chunk 22/93 of 'NIH � Digestive Disorders/nih_comprehensive_review.txt'
+2025-09-03 15:08:40,316 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:08:40,318 - INFO - Generating 1 Q&A pairs from chunk 23/93 of 'NIH � Digestive Disorders/nih_comprehensive_review.txt'
+2025-09-03 15:08:41,588 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:08:41,591 - INFO - Generating 1 Q&A pairs from chunk 24/93 of 'NIH � Digestive Disorders/nih_comprehensive_review.txt'
+2025-09-03 15:08:42,712 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:08:42,714 - INFO - Generating 1 Q&A pairs from chunk 25/93 of 'NIH � Digestive Disorders/nih_comprehensive_review.txt'
+2025-09-03 15:08:43,739 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:08:43,741 - INFO - Generating 1 Q&A pairs from chunk 26/93 of 'NIH � Digestive Disorders/nih_comprehensive_review.txt'
+2025-09-03 15:08:45,378 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:08:45,380 - INFO - Generating 1 Q&A pairs from chunk 27/93 of 'NIH � Digestive Disorders/nih_comprehensive_review.txt'
+2025-09-03 15:08:46,399 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:08:46,401 - INFO - Generating 1 Q&A pairs from chunk 28/93 of 'NIH � Digestive Disorders/nih_comprehensive_review.txt'
+2025-09-03 15:08:47,843 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:08:47,845 - INFO - Generating 1 Q&A pairs from chunk 29/93 of 'NIH � Digestive Disorders/nih_comprehensive_review.txt'
+2025-09-03 15:08:48,958 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:08:48,960 - INFO - Generating 1 Q&A pairs from chunk 30/93 of 'NIH � Digestive Disorders/nih_comprehensive_review.txt'
+2025-09-03 15:08:50,188 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:08:50,190 - INFO - Generating 1 Q&A pairs from chunk 31/93 of 'NIH � Digestive Disorders/nih_comprehensive_review.txt'
+2025-09-03 15:08:51,430 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:08:51,431 - INFO - Generating 1 Q&A pairs from chunk 32/93 of 'NIH � Digestive Disorders/nih_comprehensive_review.txt'
+2025-09-03 15:08:52,440 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:08:52,443 - INFO - Generating 1 Q&A pairs from chunk 33/93 of 'NIH � Digestive Disorders/nih_comprehensive_review.txt'
+2025-09-03 15:08:53,567 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:08:53,569 - INFO - Generating 1 Q&A pairs from chunk 34/93 of 'NIH � Digestive Disorders/nih_comprehensive_review.txt'
+2025-09-03 15:08:54,415 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:08:54,417 - INFO - Generating 1 Q&A pairs from chunk 35/93 of 'NIH � Digestive Disorders/nih_comprehensive_review.txt'
+2025-09-03 15:08:55,511 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:08:55,513 - INFO - Generating 1 Q&A pairs from chunk 36/93 of 'NIH � Digestive Disorders/nih_comprehensive_review.txt'
+2025-09-03 15:08:56,641 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:08:56,643 - INFO - Generating 1 Q&A pairs from chunk 37/93 of 'NIH � Digestive Disorders/nih_comprehensive_review.txt'
+2025-09-03 15:08:57,870 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:08:57,872 - INFO - Generating 1 Q&A pairs from chunk 38/93 of 'NIH � Digestive Disorders/nih_comprehensive_review.txt'
+2025-09-03 15:08:59,199 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:08:59,200 - INFO - Generating 1 Q&A pairs from chunk 39/93 of 'NIH � Digestive Disorders/nih_comprehensive_review.txt'
+2025-09-03 15:09:00,115 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:09:00,116 - INFO - Generating 1 Q&A pairs from chunk 40/93 of 'NIH � Digestive Disorders/nih_comprehensive_review.txt'
+2025-09-03 15:09:01,857 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:09:01,860 - INFO - Generating 1 Q&A pairs from chunk 41/93 of 'NIH � Digestive Disorders/nih_comprehensive_review.txt'
+2025-09-03 15:09:02,610 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:09:02,614 - INFO - Generating 1 Q&A pairs from chunk 42/93 of 'NIH � Digestive Disorders/nih_comprehensive_review.txt'
+2025-09-03 15:09:03,562 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:09:03,564 - INFO - Generating 1 Q&A pairs from chunk 43/93 of 'NIH � Digestive Disorders/nih_comprehensive_review.txt'
+2025-09-03 15:09:05,240 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:09:05,242 - INFO - Generating 1 Q&A pairs from chunk 44/93 of 'NIH � Digestive Disorders/nih_comprehensive_review.txt'
+2025-09-03 15:09:06,366 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:09:06,369 - INFO - Generating 1 Q&A pairs from chunk 45/93 of 'NIH � Digestive Disorders/nih_comprehensive_review.txt'
+2025-09-03 15:09:07,608 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:09:07,611 - INFO - Generating 1 Q&A pairs from chunk 46/93 of 'NIH � Digestive Disorders/nih_comprehensive_review.txt'
+2025-09-03 15:09:08,861 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:09:08,863 - INFO - Generating 1 Q&A pairs from chunk 47/93 of 'NIH � Digestive Disorders/nih_comprehensive_review.txt'
+2025-09-03 15:09:09,931 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:09:09,932 - INFO - Generating 1 Q&A pairs from chunk 48/93 of 'NIH � Digestive Disorders/nih_comprehensive_review.txt'
+2025-09-03 15:09:11,487 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:09:11,488 - INFO - Generating 1 Q&A pairs from chunk 49/93 of 'NIH � Digestive Disorders/nih_comprehensive_review.txt'
+2025-09-03 15:09:12,460 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:09:12,461 - INFO - Generating 1 Q&A pairs from chunk 50/93 of 'NIH � Digestive Disorders/nih_comprehensive_review.txt'
+2025-09-03 15:09:14,150 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:09:14,152 - INFO - Generating 1 Q&A pairs from chunk 51/93 of 'NIH � Digestive Disorders/nih_comprehensive_review.txt'
+2025-09-03 15:09:15,609 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:09:15,611 - INFO - Generating 1 Q&A pairs from chunk 52/93 of 'NIH � Digestive Disorders/nih_comprehensive_review.txt'
+2025-09-03 15:09:17,170 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:09:17,174 - INFO - Generating 1 Q&A pairs from chunk 53/93 of 'NIH � Digestive Disorders/nih_comprehensive_review.txt'
+2025-09-03 15:09:18,552 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:09:18,557 - INFO - Generating 1 Q&A pairs from chunk 54/93 of 'NIH � Digestive Disorders/nih_comprehensive_review.txt'
+2025-09-03 15:09:19,679 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:09:19,681 - INFO - Generating 1 Q&A pairs from chunk 55/93 of 'NIH � Digestive Disorders/nih_comprehensive_review.txt'
+2025-09-03 15:09:21,100 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:09:21,102 - INFO - Generating 1 Q&A pairs from chunk 56/93 of 'NIH � Digestive Disorders/nih_comprehensive_review.txt'
+2025-09-03 15:09:22,489 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:09:22,490 - INFO - Generating 1 Q&A pairs from chunk 57/93 of 'NIH � Digestive Disorders/nih_comprehensive_review.txt'
+2025-09-03 15:09:24,083 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:09:24,086 - INFO - Generating 1 Q&A pairs from chunk 58/93 of 'NIH � Digestive Disorders/nih_comprehensive_review.txt'
+2025-09-03 15:09:25,821 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:09:25,823 - INFO - Generating 1 Q&A pairs from chunk 59/93 of 'NIH � Digestive Disorders/nih_comprehensive_review.txt'
+2025-09-03 15:09:27,676 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:09:27,678 - INFO - Generating 1 Q&A pairs from chunk 60/93 of 'NIH � Digestive Disorders/nih_comprehensive_review.txt'
+2025-09-03 15:09:29,300 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:09:29,303 - INFO - Generating 1 Q&A pairs from chunk 61/93 of 'NIH � Digestive Disorders/nih_comprehensive_review.txt'
+2025-09-03 15:09:30,679 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:09:30,681 - INFO - Generating 1 Q&A pairs from chunk 62/93 of 'NIH � Digestive Disorders/nih_comprehensive_review.txt'
+2025-09-03 15:09:31,964 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:09:31,966 - INFO - Generating 1 Q&A pairs from chunk 63/93 of 'NIH � Digestive Disorders/nih_comprehensive_review.txt'
+2025-09-03 15:09:33,196 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:09:33,200 - INFO - Generating 1 Q&A pairs from chunk 64/93 of 'NIH � Digestive Disorders/nih_comprehensive_review.txt'
+2025-09-03 15:09:35,496 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:09:35,498 - INFO - Generating 1 Q&A pairs from chunk 65/93 of 'NIH � Digestive Disorders/nih_comprehensive_review.txt'
+2025-09-03 15:09:36,986 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:09:36,989 - INFO - Generating 1 Q&A pairs from chunk 66/93 of 'NIH � Digestive Disorders/nih_comprehensive_review.txt'
+2025-09-03 15:09:38,214 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:09:38,216 - INFO - Generating 1 Q&A pairs from chunk 67/93 of 'NIH � Digestive Disorders/nih_comprehensive_review.txt'
+2025-09-03 15:09:39,751 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:09:39,753 - INFO - Generating 1 Q&A pairs from chunk 68/93 of 'NIH � Digestive Disorders/nih_comprehensive_review.txt'
+2025-09-03 15:09:41,592 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:09:41,593 - INFO - Generating 1 Q&A pairs from chunk 69/93 of 'NIH � Digestive Disorders/nih_comprehensive_review.txt'
+2025-09-03 15:09:43,144 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:09:43,146 - INFO - Generating 1 Q&A pairs from chunk 70/93 of 'NIH � Digestive Disorders/nih_comprehensive_review.txt'
+2025-09-03 15:09:44,461 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:09:44,463 - INFO - Generating 1 Q&A pairs from chunk 71/93 of 'NIH � Digestive Disorders/nih_comprehensive_review.txt'
+2025-09-03 15:09:45,996 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:09:45,999 - INFO - Generating 1 Q&A pairs from chunk 72/93 of 'NIH � Digestive Disorders/nih_comprehensive_review.txt'
+2025-09-03 15:09:47,299 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:09:47,301 - INFO - Generating 1 Q&A pairs from chunk 73/93 of 'NIH � Digestive Disorders/nih_comprehensive_review.txt'
+2025-09-03 15:09:48,655 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:09:48,657 - INFO - Generating 1 Q&A pairs from chunk 74/93 of 'NIH � Digestive Disorders/nih_comprehensive_review.txt'
+2025-09-03 15:09:50,146 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:09:50,148 - INFO - Generating 1 Q&A pairs from chunk 75/93 of 'NIH � Digestive Disorders/nih_comprehensive_review.txt'
+2025-09-03 15:09:51,501 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:09:51,503 - INFO - Generating 1 Q&A pairs from chunk 76/93 of 'NIH � Digestive Disorders/nih_comprehensive_review.txt'
+2025-09-03 15:09:53,177 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:09:53,181 - INFO - Generating 1 Q&A pairs from chunk 77/93 of 'NIH � Digestive Disorders/nih_comprehensive_review.txt'
+2025-09-03 15:09:54,698 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:09:54,700 - INFO - Generating 1 Q&A pairs from chunk 78/93 of 'NIH � Digestive Disorders/nih_comprehensive_review.txt'
+2025-09-03 15:09:56,135 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:09:56,138 - INFO - Generating 1 Q&A pairs from chunk 79/93 of 'NIH � Digestive Disorders/nih_comprehensive_review.txt'
+2025-09-03 15:09:57,739 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:09:57,741 - INFO - Generating 1 Q&A pairs from chunk 80/93 of 'NIH � Digestive Disorders/nih_comprehensive_review.txt'
+2025-09-03 15:09:59,616 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:09:59,619 - INFO - Generating 1 Q&A pairs from chunk 81/93 of 'NIH � Digestive Disorders/nih_comprehensive_review.txt'
+2025-09-03 15:10:00,894 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:10:00,897 - INFO - Generating 1 Q&A pairs from chunk 82/93 of 'NIH � Digestive Disorders/nih_comprehensive_review.txt'
+2025-09-03 15:10:02,686 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:10:02,688 - INFO - Generating 1 Q&A pairs from chunk 83/93 of 'NIH � Digestive Disorders/nih_comprehensive_review.txt'
+2025-09-03 15:10:03,807 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:10:03,809 - INFO - Generating 1 Q&A pairs from chunk 84/93 of 'NIH � Digestive Disorders/nih_comprehensive_review.txt'
+2025-09-03 15:10:04,887 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:10:04,889 - INFO - Generating 1 Q&A pairs from chunk 85/93 of 'NIH � Digestive Disorders/nih_comprehensive_review.txt'
+2025-09-03 15:10:06,498 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:10:06,500 - INFO - Generating 1 Q&A pairs from chunk 86/93 of 'NIH � Digestive Disorders/nih_comprehensive_review.txt'
+2025-09-03 15:10:07,474 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:10:07,476 - INFO - Generating 1 Q&A pairs from chunk 87/93 of 'NIH � Digestive Disorders/nih_comprehensive_review.txt'
+2025-09-03 15:10:08,730 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:10:08,732 - INFO - Generating 1 Q&A pairs from chunk 88/93 of 'NIH � Digestive Disorders/nih_comprehensive_review.txt'
+2025-09-03 15:10:10,162 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:10:10,164 - INFO - Generating 1 Q&A pairs from chunk 89/93 of 'NIH � Digestive Disorders/nih_comprehensive_review.txt'
+2025-09-03 15:10:11,260 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:10:11,264 - INFO - Generating 1 Q&A pairs from chunk 90/93 of 'NIH � Digestive Disorders/nih_comprehensive_review.txt'
+2025-09-03 15:10:12,825 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:10:12,827 - INFO - Generating 1 Q&A pairs from chunk 91/93 of 'NIH � Digestive Disorders/nih_comprehensive_review.txt'
+2025-09-03 15:10:14,260 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:10:14,262 - INFO - Generating 1 Q&A pairs from chunk 92/93 of 'NIH � Digestive Disorders/nih_comprehensive_review.txt'
+2025-09-03 15:10:15,487 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:10:15,489 - INFO - Generating 1 Q&A pairs from chunk 93/93 of 'NIH � Digestive Disorders/nih_comprehensive_review.txt'
+2025-09-03 15:10:16,478 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:10:16,480 - INFO - Generated 93 Q&A pairs for 'NIH � Digestive Disorders/nih_comprehensive_review.txt'
+2025-09-03 15:10:16,481 - INFO - Successfully processed 'NIH � Digestive Disorders/nih_comprehensive_review.txt' - Generated 93 Q&A pairs
+2025-09-03 15:10:16,481 - INFO - Processing file 23/34: NIH � Digestive Disorders/nih_dysbiosis_gi.txt
+2025-09-03 15:10:16,483 - INFO - Read 73966 characters from 'NIH � Digestive Disorders/nih_dysbiosis_gi.txt'
+2025-09-03 15:10:16,491 - INFO - Generating 6 Q&A pairs from chunk 1/25 of 'NIH � Digestive Disorders/nih_dysbiosis_gi.txt'
+2025-09-03 15:10:19,389 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:10:19,392 - INFO - Generating 6 Q&A pairs from chunk 2/25 of 'NIH � Digestive Disorders/nih_dysbiosis_gi.txt'
+2025-09-03 15:10:22,172 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:10:22,174 - INFO - Generating 6 Q&A pairs from chunk 3/25 of 'NIH � Digestive Disorders/nih_dysbiosis_gi.txt'
+2025-09-03 15:10:25,977 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:10:25,979 - INFO - Generating 6 Q&A pairs from chunk 4/25 of 'NIH � Digestive Disorders/nih_dysbiosis_gi.txt'
+2025-09-03 15:10:30,654 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:10:30,656 - INFO - Generating 6 Q&A pairs from chunk 5/25 of 'NIH � Digestive Disorders/nih_dysbiosis_gi.txt'
+2025-09-03 15:10:34,431 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:10:34,436 - INFO - Generating 6 Q&A pairs from chunk 6/25 of 'NIH � Digestive Disorders/nih_dysbiosis_gi.txt'
+2025-09-03 15:10:38,529 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:10:38,533 - INFO - Generating 6 Q&A pairs from chunk 7/25 of 'NIH � Digestive Disorders/nih_dysbiosis_gi.txt'
+2025-09-03 15:10:42,936 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:10:42,939 - INFO - Generating 6 Q&A pairs from chunk 8/25 of 'NIH � Digestive Disorders/nih_dysbiosis_gi.txt'
+2025-09-03 15:10:46,447 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:10:46,449 - INFO - Generating 6 Q&A pairs from chunk 9/25 of 'NIH � Digestive Disorders/nih_dysbiosis_gi.txt'
+2025-09-03 15:10:49,280 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:10:49,282 - INFO - Generating 6 Q&A pairs from chunk 10/25 of 'NIH � Digestive Disorders/nih_dysbiosis_gi.txt'
+2025-09-03 15:10:53,067 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:10:53,069 - ERROR - Failed to parse JSON response: Expecting ',' delimiter: line 24 column 189 (char 2729)
+2025-09-03 15:10:53,070 - INFO - Manually extracted 0 Q&A pairs
+2025-09-03 15:10:53,070 - INFO - Generating 6 Q&A pairs from chunk 11/25 of 'NIH � Digestive Disorders/nih_dysbiosis_gi.txt'
+2025-09-03 15:10:57,525 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:10:57,528 - INFO - Generating 6 Q&A pairs from chunk 12/25 of 'NIH � Digestive Disorders/nih_dysbiosis_gi.txt'
+2025-09-03 15:11:00,684 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:11:00,688 - INFO - Generating 6 Q&A pairs from chunk 13/25 of 'NIH � Digestive Disorders/nih_dysbiosis_gi.txt'
+2025-09-03 15:11:04,744 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:11:04,747 - INFO - Generating 6 Q&A pairs from chunk 14/25 of 'NIH � Digestive Disorders/nih_dysbiosis_gi.txt'
+2025-09-03 15:11:08,838 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:11:08,840 - INFO - Generating 6 Q&A pairs from chunk 15/25 of 'NIH � Digestive Disorders/nih_dysbiosis_gi.txt'
+2025-09-03 15:11:11,707 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:11:11,709 - INFO - Generating 6 Q&A pairs from chunk 16/25 of 'NIH � Digestive Disorders/nih_dysbiosis_gi.txt'
+2025-09-03 15:11:17,845 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:11:17,847 - WARNING - No JSON array found in response
+2025-09-03 15:11:17,847 - INFO - Generating 6 Q&A pairs from chunk 17/25 of 'NIH � Digestive Disorders/nih_dysbiosis_gi.txt'
+2025-09-03 15:11:23,992 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:11:23,994 - WARNING - No JSON array found in response
+2025-09-03 15:11:23,994 - INFO - Generating 6 Q&A pairs from chunk 18/25 of 'NIH � Digestive Disorders/nih_dysbiosis_gi.txt'
+2025-09-03 15:11:27,986 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:11:27,989 - INFO - Generating 6 Q&A pairs from chunk 19/25 of 'NIH � Digestive Disorders/nih_dysbiosis_gi.txt'
+2025-09-03 15:11:33,106 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:11:33,108 - INFO - Generating 6 Q&A pairs from chunk 20/25 of 'NIH � Digestive Disorders/nih_dysbiosis_gi.txt'
+2025-09-03 15:11:36,488 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:11:36,490 - INFO - Generating 6 Q&A pairs from chunk 21/25 of 'NIH � Digestive Disorders/nih_dysbiosis_gi.txt'
+2025-09-03 15:11:40,888 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:11:40,890 - INFO - Generating 6 Q&A pairs from chunk 22/25 of 'NIH � Digestive Disorders/nih_dysbiosis_gi.txt'
+2025-09-03 15:11:45,655 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:11:45,657 - INFO - Generating 6 Q&A pairs from chunk 23/25 of 'NIH � Digestive Disorders/nih_dysbiosis_gi.txt'
+2025-09-03 15:11:51,284 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:11:51,286 - ERROR - Failed to parse JSON response: Expecting ',' delimiter: line 16 column 296 (char 2661)
+2025-09-03 15:11:51,286 - INFO - Manually extracted 0 Q&A pairs
+2025-09-03 15:11:51,287 - INFO - Generating 6 Q&A pairs from chunk 24/25 of 'NIH � Digestive Disorders/nih_dysbiosis_gi.txt'
+2025-09-03 15:11:54,931 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:11:54,933 - INFO - Generating 6 Q&A pairs from chunk 25/25 of 'NIH � Digestive Disorders/nih_dysbiosis_gi.txt'
+2025-09-03 15:11:59,943 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:11:59,945 - INFO - Generated 126 Q&A pairs for 'NIH � Digestive Disorders/nih_dysbiosis_gi.txt'
+2025-09-03 15:11:59,945 - INFO - Successfully processed 'NIH � Digestive Disorders/nih_dysbiosis_gi.txt' - Generated 126 Q&A pairs
+2025-09-03 15:11:59,946 - INFO - Processing file 24/34: NIH � Digestive Disorders/nih_microbiome_brain.txt
+2025-09-03 15:11:59,949 - INFO - Read 305086 characters from 'NIH � Digestive Disorders/nih_microbiome_brain.txt'
+2025-09-03 15:11:59,978 - INFO - Generating 1 Q&A pairs from chunk 1/102 of 'NIH � Digestive Disorders/nih_microbiome_brain.txt'
+2025-09-03 15:12:01,440 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:12:01,442 - INFO - Generating 1 Q&A pairs from chunk 2/102 of 'NIH � Digestive Disorders/nih_microbiome_brain.txt'
+2025-09-03 15:12:02,347 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:12:02,349 - INFO - Generating 1 Q&A pairs from chunk 3/102 of 'NIH � Digestive Disorders/nih_microbiome_brain.txt'
+2025-09-03 15:12:03,686 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:12:03,690 - INFO - Generating 1 Q&A pairs from chunk 4/102 of 'NIH � Digestive Disorders/nih_microbiome_brain.txt'
+2025-09-03 15:12:04,855 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:12:04,857 - INFO - Generating 1 Q&A pairs from chunk 5/102 of 'NIH � Digestive Disorders/nih_microbiome_brain.txt'
+2025-09-03 15:12:05,872 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:12:05,874 - INFO - Generating 1 Q&A pairs from chunk 6/102 of 'NIH � Digestive Disorders/nih_microbiome_brain.txt'
+2025-09-03 15:12:06,941 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:12:06,943 - INFO - Generating 1 Q&A pairs from chunk 7/102 of 'NIH � Digestive Disorders/nih_microbiome_brain.txt'
+2025-09-03 15:12:08,228 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:12:08,229 - INFO - Generating 1 Q&A pairs from chunk 8/102 of 'NIH � Digestive Disorders/nih_microbiome_brain.txt'
+2025-09-03 15:12:09,262 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:12:09,264 - INFO - Generating 1 Q&A pairs from chunk 9/102 of 'NIH � Digestive Disorders/nih_microbiome_brain.txt'
+2025-09-03 15:12:10,309 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:12:10,311 - INFO - Generating 1 Q&A pairs from chunk 10/102 of 'NIH � Digestive Disorders/nih_microbiome_brain.txt'
+2025-09-03 15:12:11,226 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:12:11,228 - INFO - Generating 1 Q&A pairs from chunk 11/102 of 'NIH � Digestive Disorders/nih_microbiome_brain.txt'
+2025-09-03 15:12:12,425 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:12:12,427 - INFO - Generating 1 Q&A pairs from chunk 12/102 of 'NIH � Digestive Disorders/nih_microbiome_brain.txt'
+2025-09-03 15:12:13,552 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:12:13,555 - INFO - Generating 1 Q&A pairs from chunk 13/102 of 'NIH � Digestive Disorders/nih_microbiome_brain.txt'
+2025-09-03 15:12:14,884 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:12:14,886 - INFO - Generating 1 Q&A pairs from chunk 14/102 of 'NIH � Digestive Disorders/nih_microbiome_brain.txt'
+2025-09-03 15:12:15,906 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:12:15,908 - INFO - Generating 1 Q&A pairs from chunk 15/102 of 'NIH � Digestive Disorders/nih_microbiome_brain.txt'
+2025-09-03 15:12:16,933 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:12:16,935 - INFO - Generating 1 Q&A pairs from chunk 16/102 of 'NIH � Digestive Disorders/nih_microbiome_brain.txt'
+2025-09-03 15:12:17,927 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:12:17,928 - INFO - Generating 1 Q&A pairs from chunk 17/102 of 'NIH � Digestive Disorders/nih_microbiome_brain.txt'
+2025-09-03 15:12:19,288 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:12:19,290 - INFO - Generating 1 Q&A pairs from chunk 18/102 of 'NIH � Digestive Disorders/nih_microbiome_brain.txt'
+2025-09-03 15:12:21,547 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:12:21,549 - INFO - Generating 1 Q&A pairs from chunk 19/102 of 'NIH � Digestive Disorders/nih_microbiome_brain.txt'
+2025-09-03 15:12:22,537 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:12:22,539 - INFO - Generating 1 Q&A pairs from chunk 20/102 of 'NIH � Digestive Disorders/nih_microbiome_brain.txt'
+2025-09-03 15:12:23,486 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:12:23,488 - INFO - Generating 1 Q&A pairs from chunk 21/102 of 'NIH � Digestive Disorders/nih_microbiome_brain.txt'
+2025-09-03 15:12:25,022 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:12:25,024 - INFO - Generating 1 Q&A pairs from chunk 22/102 of 'NIH � Digestive Disorders/nih_microbiome_brain.txt'
+2025-09-03 15:12:26,252 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:12:26,254 - INFO - Generating 1 Q&A pairs from chunk 23/102 of 'NIH � Digestive Disorders/nih_microbiome_brain.txt'
+2025-09-03 15:12:27,426 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:12:27,429 - INFO - Generating 1 Q&A pairs from chunk 24/102 of 'NIH � Digestive Disorders/nih_microbiome_brain.txt'
+2025-09-03 15:12:28,607 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:12:28,608 - INFO - Generating 1 Q&A pairs from chunk 25/102 of 'NIH � Digestive Disorders/nih_microbiome_brain.txt'
+2025-09-03 15:12:29,836 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:12:29,838 - INFO - Generating 1 Q&A pairs from chunk 26/102 of 'NIH � Digestive Disorders/nih_microbiome_brain.txt'
+2025-09-03 15:12:31,064 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:12:31,066 - INFO - Generating 1 Q&A pairs from chunk 27/102 of 'NIH � Digestive Disorders/nih_microbiome_brain.txt'
+2025-09-03 15:12:32,189 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:12:32,191 - INFO - Generating 1 Q&A pairs from chunk 28/102 of 'NIH � Digestive Disorders/nih_microbiome_brain.txt'
+2025-09-03 15:12:33,522 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:12:33,525 - INFO - Generating 1 Q&A pairs from chunk 29/102 of 'NIH � Digestive Disorders/nih_microbiome_brain.txt'
+2025-09-03 15:12:34,955 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:12:34,958 - INFO - Generating 1 Q&A pairs from chunk 30/102 of 'NIH � Digestive Disorders/nih_microbiome_brain.txt'
+2025-09-03 15:12:36,039 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:12:36,041 - INFO - Generating 1 Q&A pairs from chunk 31/102 of 'NIH � Digestive Disorders/nih_microbiome_brain.txt'
+2025-09-03 15:12:37,409 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:12:37,412 - INFO - Generating 1 Q&A pairs from chunk 32/102 of 'NIH � Digestive Disorders/nih_microbiome_brain.txt'
+2025-09-03 15:12:38,619 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:12:38,622 - INFO - Generating 1 Q&A pairs from chunk 33/102 of 'NIH � Digestive Disorders/nih_microbiome_brain.txt'
+2025-09-03 15:12:39,462 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:12:39,465 - INFO - Generating 1 Q&A pairs from chunk 34/102 of 'NIH � Digestive Disorders/nih_microbiome_brain.txt'
+2025-09-03 15:12:40,790 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:12:40,793 - INFO - Generating 1 Q&A pairs from chunk 35/102 of 'NIH � Digestive Disorders/nih_microbiome_brain.txt'
+2025-09-03 15:12:42,020 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:12:42,025 - INFO - Generating 1 Q&A pairs from chunk 36/102 of 'NIH � Digestive Disorders/nih_microbiome_brain.txt'
+2025-09-03 15:12:43,594 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:12:43,595 - INFO - Generating 1 Q&A pairs from chunk 37/102 of 'NIH � Digestive Disorders/nih_microbiome_brain.txt'
+2025-09-03 15:12:44,889 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:12:44,892 - INFO - Generating 1 Q&A pairs from chunk 38/102 of 'NIH � Digestive Disorders/nih_microbiome_brain.txt'
+2025-09-03 15:12:46,627 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:12:46,632 - INFO - Generating 1 Q&A pairs from chunk 39/102 of 'NIH � Digestive Disorders/nih_microbiome_brain.txt'
+2025-09-03 15:12:47,846 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:12:47,848 - INFO - Generating 1 Q&A pairs from chunk 40/102 of 'NIH � Digestive Disorders/nih_microbiome_brain.txt'
+2025-09-03 15:12:48,807 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:12:48,844 - INFO - Generating 1 Q&A pairs from chunk 41/102 of 'NIH � Digestive Disorders/nih_microbiome_brain.txt'
+2025-09-03 15:12:50,006 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:12:50,007 - INFO - Generating 1 Q&A pairs from chunk 42/102 of 'NIH � Digestive Disorders/nih_microbiome_brain.txt'
+2025-09-03 15:12:51,077 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:12:51,079 - INFO - Generating 1 Q&A pairs from chunk 43/102 of 'NIH � Digestive Disorders/nih_microbiome_brain.txt'
+2025-09-03 15:12:52,211 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:12:52,212 - INFO - Generating 1 Q&A pairs from chunk 44/102 of 'NIH � Digestive Disorders/nih_microbiome_brain.txt'
+2025-09-03 15:12:53,283 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:12:53,286 - INFO - Generating 1 Q&A pairs from chunk 45/102 of 'NIH � Digestive Disorders/nih_microbiome_brain.txt'
+2025-09-03 15:12:54,596 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:12:54,599 - INFO - Generating 1 Q&A pairs from chunk 46/102 of 'NIH � Digestive Disorders/nih_microbiome_brain.txt'
+2025-09-03 15:12:55,482 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:12:55,484 - INFO - Generating 1 Q&A pairs from chunk 47/102 of 'NIH � Digestive Disorders/nih_microbiome_brain.txt'
+2025-09-03 15:12:56,458 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:12:56,460 - INFO - Generating 1 Q&A pairs from chunk 48/102 of 'NIH � Digestive Disorders/nih_microbiome_brain.txt'
+2025-09-03 15:12:57,490 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:12:57,492 - INFO - Generating 1 Q&A pairs from chunk 49/102 of 'NIH � Digestive Disorders/nih_microbiome_brain.txt'
+2025-09-03 15:12:59,019 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:12:59,021 - INFO - Generating 1 Q&A pairs from chunk 50/102 of 'NIH � Digestive Disorders/nih_microbiome_brain.txt'
+2025-09-03 15:12:59,862 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:12:59,865 - INFO - Generating 1 Q&A pairs from chunk 51/102 of 'NIH � Digestive Disorders/nih_microbiome_brain.txt'
+2025-09-03 15:13:01,069 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:13:01,112 - INFO - Generating 1 Q&A pairs from chunk 52/102 of 'NIH � Digestive Disorders/nih_microbiome_brain.txt'
+2025-09-03 15:13:02,315 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:13:02,316 - INFO - Generating 1 Q&A pairs from chunk 53/102 of 'NIH � Digestive Disorders/nih_microbiome_brain.txt'
+2025-09-03 15:13:03,808 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:13:03,811 - INFO - Generating 1 Q&A pairs from chunk 54/102 of 'NIH � Digestive Disorders/nih_microbiome_brain.txt'
+2025-09-03 15:13:04,752 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:13:04,754 - INFO - Generating 1 Q&A pairs from chunk 55/102 of 'NIH � Digestive Disorders/nih_microbiome_brain.txt'
+2025-09-03 15:13:06,630 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:13:06,633 - INFO - Generating 1 Q&A pairs from chunk 56/102 of 'NIH � Digestive Disorders/nih_microbiome_brain.txt'
+2025-09-03 15:13:08,232 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:13:08,234 - INFO - Generating 1 Q&A pairs from chunk 57/102 of 'NIH � Digestive Disorders/nih_microbiome_brain.txt'
+2025-09-03 15:13:09,770 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:13:09,773 - INFO - Generating 1 Q&A pairs from chunk 58/102 of 'NIH � Digestive Disorders/nih_microbiome_brain.txt'
+2025-09-03 15:13:11,179 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:13:11,181 - INFO - Generating 1 Q&A pairs from chunk 59/102 of 'NIH � Digestive Disorders/nih_microbiome_brain.txt'
+2025-09-03 15:13:12,502 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:13:12,506 - INFO - Generating 1 Q&A pairs from chunk 60/102 of 'NIH � Digestive Disorders/nih_microbiome_brain.txt'
+2025-09-03 15:13:14,482 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:13:14,483 - INFO - Generating 1 Q&A pairs from chunk 61/102 of 'NIH � Digestive Disorders/nih_microbiome_brain.txt'
+2025-09-03 15:13:15,920 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:13:15,922 - INFO - Generating 1 Q&A pairs from chunk 62/102 of 'NIH � Digestive Disorders/nih_microbiome_brain.txt'
+2025-09-03 15:13:17,146 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:13:17,148 - INFO - Generating 1 Q&A pairs from chunk 63/102 of 'NIH � Digestive Disorders/nih_microbiome_brain.txt'
+2025-09-03 15:13:18,581 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:13:18,583 - INFO - Generating 1 Q&A pairs from chunk 64/102 of 'NIH � Digestive Disorders/nih_microbiome_brain.txt'
+2025-09-03 15:13:20,333 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:13:20,335 - INFO - Generating 1 Q&A pairs from chunk 65/102 of 'NIH � Digestive Disorders/nih_microbiome_brain.txt'
+2025-09-03 15:13:21,866 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:13:21,868 - INFO - Generating 1 Q&A pairs from chunk 66/102 of 'NIH � Digestive Disorders/nih_microbiome_brain.txt'
+2025-09-03 15:13:23,493 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:13:23,495 - INFO - Generating 1 Q&A pairs from chunk 67/102 of 'NIH � Digestive Disorders/nih_microbiome_brain.txt'
+2025-09-03 15:13:24,963 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:13:24,966 - INFO - Generating 1 Q&A pairs from chunk 68/102 of 'NIH � Digestive Disorders/nih_microbiome_brain.txt'
+2025-09-03 15:13:26,669 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:13:26,671 - INFO - Generating 1 Q&A pairs from chunk 69/102 of 'NIH � Digestive Disorders/nih_microbiome_brain.txt'
+2025-09-03 15:13:28,287 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:13:28,290 - INFO - Generating 1 Q&A pairs from chunk 70/102 of 'NIH � Digestive Disorders/nih_microbiome_brain.txt'
+2025-09-03 15:13:29,950 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:13:29,952 - INFO - Generating 1 Q&A pairs from chunk 71/102 of 'NIH � Digestive Disorders/nih_microbiome_brain.txt'
+2025-09-03 15:13:31,685 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:13:31,687 - INFO - Generating 1 Q&A pairs from chunk 72/102 of 'NIH � Digestive Disorders/nih_microbiome_brain.txt'
+2025-09-03 15:13:33,506 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:13:33,507 - INFO - Generating 1 Q&A pairs from chunk 73/102 of 'NIH � Digestive Disorders/nih_microbiome_brain.txt'
+2025-09-03 15:13:34,646 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:13:34,648 - INFO - Generating 1 Q&A pairs from chunk 74/102 of 'NIH � Digestive Disorders/nih_microbiome_brain.txt'
+2025-09-03 15:13:36,353 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:13:36,355 - INFO - Generating 1 Q&A pairs from chunk 75/102 of 'NIH � Digestive Disorders/nih_microbiome_brain.txt'
+2025-09-03 15:13:38,040 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:13:38,041 - INFO - Generating 1 Q&A pairs from chunk 76/102 of 'NIH � Digestive Disorders/nih_microbiome_brain.txt'
+2025-09-03 15:13:39,379 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:13:39,381 - INFO - Generating 1 Q&A pairs from chunk 77/102 of 'NIH � Digestive Disorders/nih_microbiome_brain.txt'
+2025-09-03 15:13:40,990 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:13:40,993 - INFO - Generating 1 Q&A pairs from chunk 78/102 of 'NIH � Digestive Disorders/nih_microbiome_brain.txt'
+2025-09-03 15:13:42,404 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:13:42,408 - INFO - Generating 1 Q&A pairs from chunk 79/102 of 'NIH � Digestive Disorders/nih_microbiome_brain.txt'
+2025-09-03 15:13:44,079 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:13:44,081 - INFO - Generating 1 Q&A pairs from chunk 80/102 of 'NIH � Digestive Disorders/nih_microbiome_brain.txt'
+2025-09-03 15:13:45,729 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:13:45,731 - INFO - Generating 1 Q&A pairs from chunk 81/102 of 'NIH � Digestive Disorders/nih_microbiome_brain.txt'
+2025-09-03 15:13:47,257 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:13:47,258 - INFO - Generating 1 Q&A pairs from chunk 82/102 of 'NIH � Digestive Disorders/nih_microbiome_brain.txt'
+2025-09-03 15:13:48,505 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:13:48,508 - INFO - Generating 1 Q&A pairs from chunk 83/102 of 'NIH � Digestive Disorders/nih_microbiome_brain.txt'
+2025-09-03 15:13:49,911 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:13:49,915 - INFO - Generating 1 Q&A pairs from chunk 84/102 of 'NIH � Digestive Disorders/nih_microbiome_brain.txt'
+2025-09-03 15:13:51,652 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:13:51,654 - INFO - Generating 1 Q&A pairs from chunk 85/102 of 'NIH � Digestive Disorders/nih_microbiome_brain.txt'
+2025-09-03 15:13:53,014 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:13:53,019 - INFO - Generating 1 Q&A pairs from chunk 86/102 of 'NIH � Digestive Disorders/nih_microbiome_brain.txt'
+2025-09-03 15:13:54,724 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:13:54,726 - INFO - Generating 1 Q&A pairs from chunk 87/102 of 'NIH � Digestive Disorders/nih_microbiome_brain.txt'
+2025-09-03 15:13:56,262 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:13:56,266 - INFO - Generating 1 Q&A pairs from chunk 88/102 of 'NIH � Digestive Disorders/nih_microbiome_brain.txt'
+2025-09-03 15:13:57,852 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:13:57,854 - INFO - Generating 1 Q&A pairs from chunk 89/102 of 'NIH � Digestive Disorders/nih_microbiome_brain.txt'
+2025-09-03 15:13:59,539 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:13:59,541 - INFO - Generating 1 Q&A pairs from chunk 90/102 of 'NIH � Digestive Disorders/nih_microbiome_brain.txt'
+2025-09-03 15:14:00,573 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:14:00,574 - INFO - Generating 1 Q&A pairs from chunk 91/102 of 'NIH � Digestive Disorders/nih_microbiome_brain.txt'
+2025-09-03 15:14:01,688 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:14:01,689 - INFO - Generating 1 Q&A pairs from chunk 92/102 of 'NIH � Digestive Disorders/nih_microbiome_brain.txt'
+2025-09-03 15:14:03,089 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:14:03,092 - INFO - Generating 1 Q&A pairs from chunk 93/102 of 'NIH � Digestive Disorders/nih_microbiome_brain.txt'
+2025-09-03 15:14:04,759 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:14:04,761 - INFO - Generating 1 Q&A pairs from chunk 94/102 of 'NIH � Digestive Disorders/nih_microbiome_brain.txt'
+2025-09-03 15:14:06,093 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:14:06,095 - INFO - Generating 1 Q&A pairs from chunk 95/102 of 'NIH � Digestive Disorders/nih_microbiome_brain.txt'
+2025-09-03 15:14:07,807 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:14:07,809 - INFO - Generating 1 Q&A pairs from chunk 96/102 of 'NIH � Digestive Disorders/nih_microbiome_brain.txt'
+2025-09-03 15:14:09,159 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:14:09,161 - INFO - Generating 1 Q&A pairs from chunk 97/102 of 'NIH � Digestive Disorders/nih_microbiome_brain.txt'
+2025-09-03 15:14:10,800 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:14:10,802 - INFO - Generating 1 Q&A pairs from chunk 98/102 of 'NIH � Digestive Disorders/nih_microbiome_brain.txt'
+2025-09-03 15:14:12,137 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:14:12,139 - INFO - Generating 1 Q&A pairs from chunk 99/102 of 'NIH � Digestive Disorders/nih_microbiome_brain.txt'
+2025-09-03 15:14:13,980 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:14:13,982 - INFO - Generating 1 Q&A pairs from chunk 100/102 of 'NIH � Digestive Disorders/nih_microbiome_brain.txt'
+2025-09-03 15:14:15,336 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:14:15,338 - INFO - Generating 1 Q&A pairs from chunk 101/102 of 'NIH � Digestive Disorders/nih_microbiome_brain.txt'
+2025-09-03 15:14:16,499 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:14:16,501 - INFO - Generating 1 Q&A pairs from chunk 102/102 of 'NIH � Digestive Disorders/nih_microbiome_brain.txt'
+2025-09-03 15:14:17,828 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:14:17,830 - INFO - Generated 102 Q&A pairs for 'NIH � Digestive Disorders/nih_microbiome_brain.txt'
+2025-09-03 15:14:17,831 - INFO - Successfully processed 'NIH � Digestive Disorders/nih_microbiome_brain.txt' - Generated 102 Q&A pairs
+2025-09-03 15:14:17,831 - INFO - Processing file 25/34: NIH � Digestive Disorders/nih_gut_microbiota_therapy.txt
+2025-09-03 15:14:17,833 - INFO - Read 6115 characters from 'NIH � Digestive Disorders/nih_gut_microbiota_therapy.txt'
+2025-09-03 15:14:17,834 - INFO - Generating 50 Q&A pairs from chunk 1/3 of 'NIH � Digestive Disorders/nih_gut_microbiota_therapy.txt'
+2025-09-03 15:14:22,168 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:14:26,571 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:14:30,891 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:14:35,278 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:14:39,692 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:14:39,696 - INFO - Generating 50 Q&A pairs from chunk 2/3 of 'NIH � Digestive Disorders/nih_gut_microbiota_therapy.txt'
+2025-09-03 15:14:45,720 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:14:45,723 - WARNING - No JSON array found in response
+2025-09-03 15:14:52,026 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:14:52,028 - WARNING - No JSON array found in response
+2025-09-03 15:14:58,029 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:14:58,030 - WARNING - No JSON array found in response
+2025-09-03 15:15:04,018 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:15:04,020 - WARNING - No JSON array found in response
+2025-09-03 15:15:10,093 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:15:10,095 - WARNING - No JSON array found in response
+2025-09-03 15:15:10,096 - INFO - Generating 50 Q&A pairs from chunk 3/3 of 'NIH � Digestive Disorders/nih_gut_microbiota_therapy.txt'
+2025-09-03 15:15:14,599 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:15:14,601 - ERROR - Failed to parse JSON response: Expecting ',' delimiter: line 41 column 1 (char 3773)
+2025-09-03 15:15:14,602 - INFO - Manually extracted 0 Q&A pairs
+2025-09-03 15:15:19,038 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:15:19,042 - ERROR - Failed to parse JSON response: Expecting ',' delimiter: line 41 column 1 (char 3773)
+2025-09-03 15:15:19,042 - INFO - Manually extracted 0 Q&A pairs
+2025-09-03 15:15:23,510 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:15:23,512 - ERROR - Failed to parse JSON response: Expecting ',' delimiter: line 41 column 1 (char 3773)
+2025-09-03 15:15:23,513 - INFO - Manually extracted 0 Q&A pairs
+2025-09-03 15:15:27,927 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:15:27,929 - ERROR - Failed to parse JSON response: Expecting ',' delimiter: line 41 column 1 (char 3773)
+2025-09-03 15:15:27,930 - INFO - Manually extracted 0 Q&A pairs
+2025-09-03 15:15:32,427 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:15:32,429 - ERROR - Failed to parse JSON response: Expecting ',' delimiter: line 41 column 1 (char 3773)
+2025-09-03 15:15:32,430 - INFO - Manually extracted 0 Q&A pairs
+2025-09-03 15:15:32,430 - INFO - Generated 50 Q&A pairs for 'NIH � Digestive Disorders/nih_gut_microbiota_therapy.txt'
+2025-09-03 15:15:32,431 - INFO - Successfully processed 'NIH � Digestive Disorders/nih_gut_microbiota_therapy.txt' - Generated 50 Q&A pairs
+2025-09-03 15:15:32,431 - INFO - Processing file 26/34: Precision Nutrition � Digestive Health/pn_improve_gut_health.txt
+2025-09-03 15:15:32,432 - ERROR - Text file 'Precision Nutrition � Digestive Health/pn_improve_gut_health.txt' not found
+2025-09-03 15:15:32,435 - WARNING - Skipping 'Precision Nutrition � Digestive Health/pn_improve_gut_health.txt' due to read error
+2025-09-03 15:15:32,436 - INFO - Processing file 27/34: Precision Nutrition � Digestive Health/pn_all_about_gut_health.txt
+2025-09-03 15:15:32,437 - ERROR - Text file 'Precision Nutrition � Digestive Health/pn_all_about_gut_health.txt' not found
+2025-09-03 15:15:32,440 - WARNING - Skipping 'Precision Nutrition � Digestive Health/pn_all_about_gut_health.txt' due to read error
+2025-09-03 15:15:32,442 - INFO - Processing file 28/34: Precision Nutrition � Digestive Health/pn_what_is_ibs.txt
+2025-09-03 15:15:32,443 - ERROR - Text file 'Precision Nutrition � Digestive Health/pn_what_is_ibs.txt' not found
+2025-09-03 15:15:32,445 - WARNING - Skipping 'Precision Nutrition � Digestive Health/pn_what_is_ibs.txt' due to read error
+2025-09-03 15:15:32,446 - INFO - Processing file 29/34: Precision Nutrition � Digestive Health/pn_all_about_probiotics.txt
+2025-09-03 15:15:32,447 - ERROR - Text file 'Precision Nutrition � Digestive Health/pn_all_about_probiotics.txt' not found
+2025-09-03 15:15:32,447 - WARNING - Skipping 'Precision Nutrition � Digestive Health/pn_all_about_probiotics.txt' due to read error
+2025-09-03 15:15:32,448 - INFO - Processing file 30/34: Precision Nutrition � Digestive Health/pn_do_probiotics_work.txt
+2025-09-03 15:15:32,449 - ERROR - Text file 'Precision Nutrition � Digestive Health/pn_do_probiotics_work.txt' not found
+2025-09-03 15:15:32,452 - WARNING - Skipping 'Precision Nutrition � Digestive Health/pn_do_probiotics_work.txt' due to read error
+2025-09-03 15:15:32,453 - INFO - Processing file 31/34: Precision Nutrition � Digestive Health/pn_all_about_fiber.txt
+2025-09-03 15:15:32,454 - ERROR - Text file 'Precision Nutrition � Digestive Health/pn_all_about_fiber.txt' not found
+2025-09-03 15:15:32,455 - WARNING - Skipping 'Precision Nutrition � Digestive Health/pn_all_about_fiber.txt' due to read error
+2025-09-03 15:15:32,457 - INFO - Processing file 32/34: Precision Nutrition � Digestive Health/pn_poop_health.txt
+2025-09-03 15:15:32,459 - ERROR - Text file 'Precision Nutrition � Digestive Health/pn_poop_health.txt' not found
+2025-09-03 15:15:32,459 - WARNING - Skipping 'Precision Nutrition � Digestive Health/pn_poop_health.txt' due to read error
+2025-09-03 15:15:32,460 - INFO - Processing file 33/34: Precision Nutrition � Digestive Health/pn_slow_eating.txt
+2025-09-03 15:15:32,460 - ERROR - Text file 'Precision Nutrition � Digestive Health/pn_slow_eating.txt' not found
+2025-09-03 15:15:32,461 - WARNING - Skipping 'Precision Nutrition � Digestive Health/pn_slow_eating.txt' due to read error
+2025-09-03 15:15:32,461 - INFO - Processing file 34/34: Precision Nutrition � Digestive Health/pn_all_about_lectins.txt
+2025-09-03 15:15:32,462 - ERROR - Text file 'Precision Nutrition � Digestive Health/pn_all_about_lectins.txt' not found
+2025-09-03 15:15:32,463 - WARNING - Skipping 'Precision Nutrition � Digestive Health/pn_all_about_lectins.txt' due to read error
+2025-09-03 15:15:32,463 - INFO - Completed processing: 24/34 files successful
+2025-09-03 15:15:32,464 - INFO - Total Q&A pairs generated: 2990
+2025-09-03 15:15:32,534 - INFO - Dataset saved to 'qa_dataset.json' with 2990 Q&A pairs
+2025-09-03 15:15:32,535 - ERROR - Fatal error: name 'file_info_list' is not defined
+2025-09-03 15:24:51,938 - INFO - Starting Q&A dataset generation
+2025-09-03 15:24:52,461 - INFO - Reading manifest: sources_manifest.csv
+2025-09-03 15:24:52,507 - ERROR - Error reading manifest: CSV must contain 'raw_text_filename' column
+2025-09-03 15:24:52,508 - ERROR - Fatal error: CSV must contain 'raw_text_filename' column
+2025-09-03 15:25:24,053 - INFO - Starting Q&A dataset generation
+2025-09-03 15:25:24,498 - INFO - Reading manifest: sources_manifest.csv
+2025-09-03 15:25:24,532 - INFO - Found 9 files in manifest
+2025-09-03 15:25:24,532 - INFO - Processing file 1/9: Precision Nutrition � Digestive Health/pn_improve_gut_health.txt
+2025-09-03 15:25:24,533 - INFO - Read 15359 characters from 'Precision Nutrition � Digestive Health/pn_improve_gut_health.txt'
+2025-09-03 15:25:24,535 - INFO - Generating 25 Q&A pairs from chunk 1/6 of 'Precision Nutrition � Digestive Health/pn_improve_gut_health.txt'
+2025-09-03 15:25:30,019 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:25:34,728 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:25:37,846 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:25:37,849 - INFO - Generating 25 Q&A pairs from chunk 2/6 of 'Precision Nutrition � Digestive Health/pn_improve_gut_health.txt'
+2025-09-03 15:25:42,108 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:25:46,344 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:25:49,258 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:25:49,260 - INFO - Generating 25 Q&A pairs from chunk 3/6 of 'Precision Nutrition � Digestive Health/pn_improve_gut_health.txt'
+2025-09-03 15:25:53,859 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:25:58,788 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:26:01,808 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:26:01,810 - WARNING - No JSON array found in response
+2025-09-03 15:26:01,810 - INFO - Generating 25 Q&A pairs from chunk 4/6 of 'Precision Nutrition � Digestive Health/pn_improve_gut_health.txt'
+2025-09-03 15:26:05,816 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:26:09,815 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:26:12,719 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:26:12,721 - INFO - Generating 25 Q&A pairs from chunk 5/6 of 'Precision Nutrition � Digestive Health/pn_improve_gut_health.txt'
+2025-09-03 15:26:16,918 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:26:20,964 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:26:24,139 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:26:24,142 - INFO - Generating 25 Q&A pairs from chunk 6/6 of 'Precision Nutrition � Digestive Health/pn_improve_gut_health.txt'
+2025-09-03 15:26:27,588 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:26:31,162 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:26:32,958 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:26:32,960 - INFO - Generated 145 Q&A pairs for 'Precision Nutrition � Digestive Health/pn_improve_gut_health.txt'
+2025-09-03 15:26:32,962 - INFO - Successfully processed 'Precision Nutrition � Digestive Health/pn_improve_gut_health.txt' - Generated 145 Q&A pairs
+2025-09-03 15:26:32,963 - INFO - Processing file 2/9: Precision Nutrition � Digestive Health/pn_all_about_gut_health.txt
+2025-09-03 15:26:32,965 - INFO - Read 14992 characters from 'Precision Nutrition � Digestive Health/pn_all_about_gut_health.txt'
+2025-09-03 15:26:32,969 - INFO - Generating 30 Q&A pairs from chunk 1/5 of 'Precision Nutrition � Digestive Health/pn_all_about_gut_health.txt'
+2025-09-03 15:26:36,373 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:26:39,753 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:26:43,129 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:26:43,132 - INFO - Generating 30 Q&A pairs from chunk 2/5 of 'Precision Nutrition � Digestive Health/pn_all_about_gut_health.txt'
+2025-09-03 15:26:47,627 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:26:52,246 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:26:56,864 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:26:56,868 - INFO - Generating 30 Q&A pairs from chunk 3/5 of 'Precision Nutrition � Digestive Health/pn_all_about_gut_health.txt'
+2025-09-03 15:27:01,770 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:27:06,684 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:27:11,610 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:27:11,612 - INFO - Generating 30 Q&A pairs from chunk 4/5 of 'Precision Nutrition � Digestive Health/pn_all_about_gut_health.txt'
+2025-09-03 15:27:16,315 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:27:20,746 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:27:25,218 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:27:25,221 - INFO - Generating 30 Q&A pairs from chunk 5/5 of 'Precision Nutrition � Digestive Health/pn_all_about_gut_health.txt'
+2025-09-03 15:27:29,385 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:27:33,536 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:27:37,707 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:27:37,709 - INFO - Generated 150 Q&A pairs for 'Precision Nutrition � Digestive Health/pn_all_about_gut_health.txt'
+2025-09-03 15:27:37,710 - INFO - Successfully processed 'Precision Nutrition � Digestive Health/pn_all_about_gut_health.txt' - Generated 150 Q&A pairs
+2025-09-03 15:27:37,710 - INFO - Processing file 3/9: Precision Nutrition � Digestive Health/pn_what_is_ibs.txt
+2025-09-03 15:27:37,712 - INFO - Read 23903 characters from 'Precision Nutrition � Digestive Health/pn_what_is_ibs.txt'
+2025-09-03 15:27:37,716 - INFO - Generating 18 Q&A pairs from chunk 1/8 of 'Precision Nutrition � Digestive Health/pn_what_is_ibs.txt'
+2025-09-03 15:27:41,513 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:27:44,778 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:27:44,782 - INFO - Generating 18 Q&A pairs from chunk 2/8 of 'Precision Nutrition � Digestive Health/pn_what_is_ibs.txt'
+2025-09-03 15:27:50,664 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:27:50,665 - WARNING - No JSON array found in response
+2025-09-03 15:27:56,553 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:27:56,555 - WARNING - No JSON array found in response
+2025-09-03 15:27:56,556 - INFO - Generating 18 Q&A pairs from chunk 3/8 of 'Precision Nutrition � Digestive Health/pn_what_is_ibs.txt'
+2025-09-03 15:28:01,160 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:28:04,948 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:28:04,950 - INFO - Generating 18 Q&A pairs from chunk 4/8 of 'Precision Nutrition � Digestive Health/pn_what_is_ibs.txt'
+2025-09-03 15:28:10,066 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:28:14,197 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:28:14,199 - INFO - Generating 18 Q&A pairs from chunk 5/8 of 'Precision Nutrition � Digestive Health/pn_what_is_ibs.txt'
+2025-09-03 15:28:18,363 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:28:22,254 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:28:22,256 - INFO - Generating 18 Q&A pairs from chunk 6/8 of 'Precision Nutrition � Digestive Health/pn_what_is_ibs.txt'
+2025-09-03 15:28:27,707 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:28:33,635 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:28:33,638 - WARNING - No JSON array found in response
+2025-09-03 15:28:33,638 - INFO - Generating 18 Q&A pairs from chunk 7/8 of 'Precision Nutrition � Digestive Health/pn_what_is_ibs.txt'
+2025-09-03 15:28:38,130 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:28:43,043 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:28:43,046 - WARNING - No JSON array found in response
+2025-09-03 15:28:43,047 - INFO - Generating 18 Q&A pairs from chunk 8/8 of 'Precision Nutrition � Digestive Health/pn_what_is_ibs.txt'
+2025-09-03 15:28:47,635 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:28:47,637 - WARNING - No JSON array found in response
+2025-09-03 15:28:52,769 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:28:52,771 - WARNING - No JSON array found in response
+2025-09-03 15:28:52,772 - INFO - Generated 92 Q&A pairs for 'Precision Nutrition � Digestive Health/pn_what_is_ibs.txt'
+2025-09-03 15:28:52,772 - INFO - Successfully processed 'Precision Nutrition � Digestive Health/pn_what_is_ibs.txt' - Generated 92 Q&A pairs
+2025-09-03 15:28:52,773 - INFO - Processing file 4/9: Precision Nutrition � Digestive Health/pn_all_about_probiotics.txt
+2025-09-03 15:28:52,774 - INFO - Read 9389 characters from 'Precision Nutrition � Digestive Health/pn_all_about_probiotics.txt'
+2025-09-03 15:28:52,776 - INFO - Generating 37 Q&A pairs from chunk 1/4 of 'Precision Nutrition � Digestive Health/pn_all_about_probiotics.txt'
+2025-09-03 15:28:56,800 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:29:00,861 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:29:04,874 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:29:08,059 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:29:08,061 - INFO - Generating 37 Q&A pairs from chunk 2/4 of 'Precision Nutrition � Digestive Health/pn_all_about_probiotics.txt'
+2025-09-03 15:29:12,245 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:29:16,282 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:29:20,420 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:29:23,797 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:29:23,800 - INFO - Generating 37 Q&A pairs from chunk 3/4 of 'Precision Nutrition � Digestive Health/pn_all_about_probiotics.txt'
+2025-09-03 15:29:27,749 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:29:31,783 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:29:35,704 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:29:39,730 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:29:39,732 - INFO - Generating 37 Q&A pairs from chunk 4/4 of 'Precision Nutrition � Digestive Health/pn_all_about_probiotics.txt'
+2025-09-03 15:29:43,049 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:29:46,327 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:29:49,521 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:29:52,263 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:29:52,265 - INFO - Generated 148 Q&A pairs for 'Precision Nutrition � Digestive Health/pn_all_about_probiotics.txt'
+2025-09-03 15:29:52,266 - INFO - Successfully processed 'Precision Nutrition � Digestive Health/pn_all_about_probiotics.txt' - Generated 148 Q&A pairs
+2025-09-03 15:29:52,267 - INFO - Processing file 5/9: Precision Nutrition � Digestive Health/pn_do_probiotics_work.txt
+2025-09-03 15:29:52,269 - INFO - Read 39906 characters from 'Precision Nutrition � Digestive Health/pn_do_probiotics_work.txt'
+2025-09-03 15:29:52,274 - INFO - Generating 10 Q&A pairs from chunk 1/14 of 'Precision Nutrition � Digestive Health/pn_do_probiotics_work.txt'
+2025-09-03 15:29:56,567 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:29:56,570 - INFO - Generating 10 Q&A pairs from chunk 2/14 of 'Precision Nutrition � Digestive Health/pn_do_probiotics_work.txt'
+2025-09-03 15:30:01,252 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:30:01,254 - INFO - Generating 10 Q&A pairs from chunk 3/14 of 'Precision Nutrition � Digestive Health/pn_do_probiotics_work.txt'
+2025-09-03 15:30:07,111 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:30:07,114 - INFO - Generating 10 Q&A pairs from chunk 4/14 of 'Precision Nutrition � Digestive Health/pn_do_probiotics_work.txt'
+2025-09-03 15:30:11,102 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:30:11,104 - INFO - Generating 10 Q&A pairs from chunk 5/14 of 'Precision Nutrition � Digestive Health/pn_do_probiotics_work.txt'
+2025-09-03 15:30:15,918 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:30:15,920 - INFO - Generating 10 Q&A pairs from chunk 6/14 of 'Precision Nutrition � Digestive Health/pn_do_probiotics_work.txt'
+2025-09-03 15:30:19,680 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:30:19,682 - INFO - Generating 10 Q&A pairs from chunk 7/14 of 'Precision Nutrition � Digestive Health/pn_do_probiotics_work.txt'
+2025-09-03 15:30:23,834 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:30:23,838 - INFO - Generating 10 Q&A pairs from chunk 8/14 of 'Precision Nutrition � Digestive Health/pn_do_probiotics_work.txt'
+2025-09-03 15:30:27,389 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:30:27,391 - ERROR - Failed to parse JSON response: Expecting ',' delimiter: line 20 column 5 (char 1072)
+2025-09-03 15:30:27,391 - INFO - Manually extracted 0 Q&A pairs
+2025-09-03 15:30:27,392 - INFO - Generating 10 Q&A pairs from chunk 9/14 of 'Precision Nutrition � Digestive Health/pn_do_probiotics_work.txt'
+2025-09-03 15:30:30,768 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:30:30,770 - INFO - Generating 10 Q&A pairs from chunk 10/14 of 'Precision Nutrition � Digestive Health/pn_do_probiotics_work.txt'
+2025-09-03 15:30:36,707 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:30:36,710 - WARNING - No JSON array found in response
+2025-09-03 15:30:36,710 - INFO - Generating 10 Q&A pairs from chunk 11/14 of 'Precision Nutrition � Digestive Health/pn_do_probiotics_work.txt'
+2025-09-03 15:30:41,826 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:30:41,829 - ERROR - Failed to parse JSON response: Expecting property name enclosed in double quotes: line 36 column 5 (char 3382)
+2025-09-03 15:30:41,830 - INFO - Manually extracted 0 Q&A pairs
+2025-09-03 15:30:41,831 - INFO - Generating 10 Q&A pairs from chunk 12/14 of 'Precision Nutrition � Digestive Health/pn_do_probiotics_work.txt'
+2025-09-03 15:30:45,717 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:30:45,719 - INFO - Generating 10 Q&A pairs from chunk 13/14 of 'Precision Nutrition � Digestive Health/pn_do_probiotics_work.txt'
+2025-09-03 15:30:50,733 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:30:50,736 - INFO - Generating 10 Q&A pairs from chunk 14/14 of 'Precision Nutrition � Digestive Health/pn_do_probiotics_work.txt'
+2025-09-03 15:30:54,522 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:30:54,524 - INFO - Generated 110 Q&A pairs for 'Precision Nutrition � Digestive Health/pn_do_probiotics_work.txt'
+2025-09-03 15:30:54,525 - INFO - Successfully processed 'Precision Nutrition � Digestive Health/pn_do_probiotics_work.txt' - Generated 110 Q&A pairs
+2025-09-03 15:30:54,526 - INFO - Processing file 6/9: Precision Nutrition � Digestive Health/pn_all_about_fiber.txt
+2025-09-03 15:30:54,527 - INFO - Read 11875 characters from 'Precision Nutrition � Digestive Health/pn_all_about_fiber.txt'
+2025-09-03 15:30:54,529 - INFO - Generating 37 Q&A pairs from chunk 1/4 of 'Precision Nutrition � Digestive Health/pn_all_about_fiber.txt'
+2025-09-03 15:31:00,564 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:31:00,567 - WARNING - No JSON array found in response
+2025-09-03 15:31:06,506 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:31:06,508 - WARNING - No JSON array found in response
+2025-09-03 15:31:12,549 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:31:12,551 - WARNING - No JSON array found in response
+2025-09-03 15:31:16,848 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:31:16,850 - INFO - Generating 37 Q&A pairs from chunk 2/4 of 'Precision Nutrition � Digestive Health/pn_all_about_fiber.txt'
+2025-09-03 15:31:20,927 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:31:24,988 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:31:29,140 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:31:32,000 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:31:32,003 - INFO - Generating 37 Q&A pairs from chunk 3/4 of 'Precision Nutrition � Digestive Health/pn_all_about_fiber.txt'
+2025-09-03 15:31:35,840 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:31:39,681 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:31:43,506 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:31:47,051 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:31:47,052 - INFO - Generating 37 Q&A pairs from chunk 4/4 of 'Precision Nutrition � Digestive Health/pn_all_about_fiber.txt'
+2025-09-03 15:31:53,006 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:31:53,008 - WARNING - No JSON array found in response
+2025-09-03 15:31:58,932 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:31:58,934 - WARNING - No JSON array found in response
+2025-09-03 15:32:04,784 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:32:04,787 - WARNING - No JSON array found in response
+2025-09-03 15:32:08,612 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:32:08,614 - INFO - Generated 88 Q&A pairs for 'Precision Nutrition � Digestive Health/pn_all_about_fiber.txt'
+2025-09-03 15:32:08,615 - INFO - Successfully processed 'Precision Nutrition � Digestive Health/pn_all_about_fiber.txt' - Generated 88 Q&A pairs
+2025-09-03 15:32:08,616 - INFO - Processing file 7/9: Precision Nutrition � Digestive Health/pn_poop_health.txt
+2025-09-03 15:32:08,618 - INFO - Read 22669 characters from 'Precision Nutrition � Digestive Health/pn_poop_health.txt'
+2025-09-03 15:32:08,622 - INFO - Generating 18 Q&A pairs from chunk 1/8 of 'Precision Nutrition � Digestive Health/pn_poop_health.txt'
+2025-09-03 15:32:14,977 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:32:19,416 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:32:19,419 - INFO - Generating 18 Q&A pairs from chunk 2/8 of 'Precision Nutrition � Digestive Health/pn_poop_health.txt'
+2025-09-03 15:32:24,532 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:32:29,149 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:32:29,151 - INFO - Generating 18 Q&A pairs from chunk 3/8 of 'Precision Nutrition � Digestive Health/pn_poop_health.txt'
+2025-09-03 15:32:34,879 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:32:39,790 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:32:39,792 - INFO - Generating 18 Q&A pairs from chunk 4/8 of 'Precision Nutrition � Digestive Health/pn_poop_health.txt'
+2025-09-03 15:32:45,524 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:32:50,915 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:32:50,918 - INFO - Generating 18 Q&A pairs from chunk 5/8 of 'Precision Nutrition � Digestive Health/pn_poop_health.txt'
+2025-09-03 15:32:56,177 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:33:01,807 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:33:01,810 - ERROR - Failed to parse JSON response: Expecting ',' delimiter: line 33 column 1 (char 3235)
+2025-09-03 15:33:01,811 - INFO - Manually extracted 0 Q&A pairs
+2025-09-03 15:33:01,812 - INFO - Generating 18 Q&A pairs from chunk 6/8 of 'Precision Nutrition � Digestive Health/pn_poop_health.txt'
+2025-09-03 15:33:06,312 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:33:11,434 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:33:11,438 - ERROR - Failed to parse JSON response: Expecting ',' delimiter: line 33 column 1 (char 2927)
+2025-09-03 15:33:11,438 - INFO - Manually extracted 0 Q&A pairs
+2025-09-03 15:33:11,439 - INFO - Generating 18 Q&A pairs from chunk 7/8 of 'Precision Nutrition � Digestive Health/pn_poop_health.txt'
+2025-09-03 15:33:17,252 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:33:22,286 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:33:22,288 - INFO - Generating 18 Q&A pairs from chunk 8/8 of 'Precision Nutrition � Digestive Health/pn_poop_health.txt'
+2025-09-03 15:33:28,224 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:33:31,806 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:33:31,808 - INFO - Generated 128 Q&A pairs for 'Precision Nutrition � Digestive Health/pn_poop_health.txt'
+2025-09-03 15:33:31,809 - INFO - Successfully processed 'Precision Nutrition � Digestive Health/pn_poop_health.txt' - Generated 128 Q&A pairs
+2025-09-03 15:33:31,810 - INFO - Processing file 8/9: Precision Nutrition � Digestive Health/pn_slow_eating.txt
+2025-09-03 15:33:31,811 - INFO - Read 11577 characters from 'Precision Nutrition � Digestive Health/pn_slow_eating.txt'
+2025-09-03 15:33:31,813 - INFO - Generating 37 Q&A pairs from chunk 1/4 of 'Precision Nutrition � Digestive Health/pn_slow_eating.txt'
+2025-09-03 15:33:39,712 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:33:39,714 - WARNING - No JSON array found in response
+2025-09-03 15:33:45,200 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:33:45,203 - ERROR - Failed to parse JSON response: Expecting property name enclosed in double quotes: line 28 column 4 (char 2349)
+2025-09-03 15:33:45,203 - INFO - Manually extracted 0 Q&A pairs
+2025-09-03 15:33:50,967 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:33:50,969 - ERROR - Failed to parse JSON response: Expecting property name enclosed in double quotes: line 36 column 4 (char 2839)
+2025-09-03 15:33:50,969 - INFO - Manually extracted 0 Q&A pairs
+2025-09-03 15:33:58,170 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:33:58,172 - WARNING - No JSON array found in response
+2025-09-03 15:33:58,172 - INFO - Generating 37 Q&A pairs from chunk 2/4 of 'Precision Nutrition � Digestive Health/pn_slow_eating.txt'
+2025-09-03 15:34:03,363 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:34:08,998 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:34:14,421 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:34:18,854 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:34:18,857 - INFO - Generating 37 Q&A pairs from chunk 3/4 of 'Precision Nutrition � Digestive Health/pn_slow_eating.txt'
+2025-09-03 15:34:24,647 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:34:24,649 - WARNING - No JSON array found in response
+2025-09-03 15:34:29,869 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:34:35,303 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:34:40,009 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:34:40,011 - INFO - Generating 37 Q&A pairs from chunk 4/4 of 'Precision Nutrition � Digestive Health/pn_slow_eating.txt'
+2025-09-03 15:34:46,065 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:34:51,636 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:34:56,863 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:35:00,484 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:35:00,488 - INFO - Generated 101 Q&A pairs for 'Precision Nutrition � Digestive Health/pn_slow_eating.txt'
+2025-09-03 15:35:00,488 - INFO - Successfully processed 'Precision Nutrition � Digestive Health/pn_slow_eating.txt' - Generated 101 Q&A pairs
+2025-09-03 15:35:00,489 - INFO - Processing file 9/9: Precision Nutrition � Digestive Health/pn_all_about_lectins.txt
+2025-09-03 15:35:00,490 - INFO - Read 14181 characters from 'Precision Nutrition � Digestive Health/pn_all_about_lectins.txt'
+2025-09-03 15:35:00,493 - INFO - Generating 30 Q&A pairs from chunk 1/5 of 'Precision Nutrition � Digestive Health/pn_all_about_lectins.txt'
+2025-09-03 15:35:05,205 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:35:09,612 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:35:13,698 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:35:13,700 - INFO - Generating 30 Q&A pairs from chunk 2/5 of 'Precision Nutrition � Digestive Health/pn_all_about_lectins.txt'
+2025-09-03 15:35:17,589 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:35:21,583 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:35:26,027 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:35:26,030 - INFO - Generating 30 Q&A pairs from chunk 3/5 of 'Precision Nutrition � Digestive Health/pn_all_about_lectins.txt'
+2025-09-03 15:35:32,743 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:35:39,912 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:35:39,915 - WARNING - No JSON array found in response
+2025-09-03 15:35:46,874 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:35:46,877 - INFO - Generating 30 Q&A pairs from chunk 4/5 of 'Precision Nutrition � Digestive Health/pn_all_about_lectins.txt'
+2025-09-03 15:35:53,435 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:36:00,368 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:36:07,459 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:36:07,462 - WARNING - No JSON array found in response
+2025-09-03 15:36:07,463 - INFO - Generating 30 Q&A pairs from chunk 5/5 of 'Precision Nutrition � Digestive Health/pn_all_about_lectins.txt'
+2025-09-03 15:36:11,961 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:36:19,141 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:36:19,144 - WARNING - No JSON array found in response
+2025-09-03 15:36:24,044 - INFO - HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-03 15:36:24,048 - INFO - Generated 120 Q&A pairs for 'Precision Nutrition � Digestive Health/pn_all_about_lectins.txt'
+2025-09-03 15:36:24,049 - INFO - Successfully processed 'Precision Nutrition � Digestive Health/pn_all_about_lectins.txt' - Generated 120 Q&A pairs
+2025-09-03 15:36:24,051 - INFO - Completed processing: 9/9 files successful
+2025-09-03 15:36:24,054 - INFO - Total Q&A pairs generated: 1082
+2025-09-03 15:36:24,173 - INFO - Dataset saved to 'qa_dataset.json' with 1082 Q&A pairs
+2025-09-03 15:36:24,198 - ERROR - Fatal error: name 'file_info_list' is not defined

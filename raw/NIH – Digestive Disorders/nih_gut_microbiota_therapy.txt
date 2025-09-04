@@ -1,0 +1,72 @@
+Abstract
+The human gut microbiota, consisting of trillions of microorganisms, plays a crucial role in gastrointestinal (GI) health and disease. Dysbiosis, an imbalance in microbial composition, has been linked to a range of GI disorders, including inflammatory bowel disease (IBD), irritable bowel syndrome (IBS), celiac disease, and colorectal cancer. These conditions are influenced by the interactions between the gut microbiota, the host immune system, and the gut-brain axis. Recent research has highlighted the potential for microbiome-based therapeutic strategies, such as probiotics, prebiotics, fecal microbiota transplantation (FMT), and dietary modifications, to restore microbial balance and alleviate disease symptoms. This review examines the role of gut microbiota in the pathogenesis of common gastrointestinal diseases and explores emerging therapeutic approaches aimed at modulating the microbiome. We discuss the scientific foundations of these interventions, their clinical effectiveness, and the challenges in their implementation. The review underscores the therapeutic potential of microbiome-targeted treatments as a novel approach to managing GI disorders, offering personalized and alternative options to conventional therapies. As research in this field continues to evolve, microbiome-based interventions hold promise for improving the treatment and prevention of gastrointestinal diseases.
+
+Keywords: cancer; dysbiosis; gastrointestinal diseases; gut microbiota; therapy.
+
+Copyright © 2025 Ullah, Arbab, Chang, Bibi, Muhammad, Rehman, Suleman, Ullah, Hassan, Tian and Li.
+
+PubMed Disclaimer
+
+Conflict of interest statement
+The authors declare that the research was conducted in the absence of any commercial or financial relationships that could be construed as a potential conflict of interest.
+
+Figures
+FIGURE 1
+FIGURE 1 Gut microbiota dysbiosis and associated…
+ 
+FIGURE 2
+FIGURE 2 Strategies to modify the gut…
+Similar articles
+Impact of Microbiota on Irritable Bowel Syndrome Pathogenesis and Management: A Narrative Review.
+Almonajjed MB, Wardeh M, Atlagh A, Ismaiel A, Popa SL, Rusu F, Dumitrascu DL.
+Medicina (Kaunas). 2025 Jan 13;61(1):109. doi: 10.3390/medicina61010109.
+PMID: 39859091 Free PMC article. Review.
+Gut Microbiota Dysbiosis and Its Role in the Development of Irritable Bowel Syndrome.
+Saleem MM, Masood S, Rahmatullah MM, Ayesha Imdad I, Mohammed Aslam Sange A, Nasr D.
+Cureus. 2025 Apr 27;17(4):e83084. doi: 10.7759/cureus.83084. eCollection 2025 Apr.
+PMID: 40438840 Free PMC article. Review.
+Restoration of dysbiotic human gut microbiome for homeostasis.
+Dixit K, Chaudhari D, Dhotre D, Shouche Y, Saroj S.
+Life Sci. 2021 Aug 1;278:119622. doi: 10.1016/j.lfs.2021.119622. Epub 2021 May 17.
+PMID: 34015282 Review.
+The current findings on the gut-liver axis and the molecular basis of NAFLD/NASH associated with gut microbiome dysbiosis.
+Sharma S, Tiwari N, Tanwar SS.
+Naunyn Schmiedebergs Arch Pharmacol. 2025 Apr 9. doi: 10.1007/s00210-025-04069-z. Online ahead of print.
+PMID: 40202676 Review.
+IUPHAR review: Targeted therapies of signaling pathways based on the gut microbiome in autism spectrum disorders: Mechanistic and therapeutic applications.
+Mamun AA, Geng P, Wang S, Shao C, Xiao J.
+Pharmacol Res. 2025 Jan;211:107559. doi: 10.1016/j.phrs.2024.107559. Epub 2024 Dec 28.
+PMID: 39733842 Review.
+See all similar articles
+Cited by
+Gut-brain axis and vascular dementia: a review on mechanisms and Chinese herbal medicine therapeutics.
+Wang D, Yao H, Wang L, Lu B, Liu W, Li J, Gong Y, Cai Y, Li Y, Cai X, Zhang R.
+Front Microbiol. 2025 May 14;16:1564928. doi: 10.3389/fmicb.2025.1564928. eCollection 2025.
+PMID: 40438206 Free PMC article. Review.
+Neurodevelopmental disorders and gut-brain interactions: exploring the therapeutic potential of pycnogenol through microbial-metabolic-neural networks.
+Chen L, Li Z, Fan Y.
+Front Cell Infect Microbiol. 2025 Jun 11;15:1601888. doi: 10.3389/fcimb.2025.1601888. eCollection 2025.
+PMID: 40568709 Free PMC article. Review.
+Molecular Mechanisms of Probiotic Action Against Gastrointestinal Cancers.
+Thoda C, Touraki M.
+Int J Mol Sci. 2025 Aug 14;26(16):7857. doi: 10.3390/ijms26167857.
+PMID: 40869174 Free PMC article. Review.
+A narrative review of research advances in gut microbiota and microecological agents in children with attention deficit hyperactivity disorder (ADHD).
+Liu Y, Zhang P, Sun H.
+Front Psychiatry. 2025 May 23;16:1588135. doi: 10.3389/fpsyt.2025.1588135. eCollection 2025.
+PMID: 40485937 Free PMC article. Review.
+Gut microbiota and autism spectrum disorder: advances in dietary intervention strategies based on the microbiota-gut-brain axis mechanism.
+Fang Z, Zhou Y, Chen K, Wang J, Liu X, Jia P.
+Front Neurosci. 2025 Jun 4;19:1587818. doi: 10.3389/fnins.2025.1587818. eCollection 2025.
+PMID: 40535973 Free PMC article. Review.
+See all "Cited by" articles
+References
+Arthur J. C., Perez-Chanona E., Muhlbauer M., Tomkovich S., Uronis J. M., Fan T.-J., et al. (2012). Intestinal inflammation targets cancer-inducing activity of the microbiota. Science 338, 120–123. 10.1126/science.1224820 - DOI - PMC - PubMed
+ 
+Askarova S., Umbayev B., Masoud A.-R., Kaiyrlykyzy A., Safarova Y., Tsoy A., et al. (2020). The links between the gut microbiome, aging, modern lifestyle and Alzheimer's disease. Front. Cell. Infect. Microbiol. 10, 104. 10.3389/fcimb.2020.00104 - DOI - PMC - PubMed
+ 
+Bailey P., Chang D. K., Nones K., Johns A. L., Patch A.-M., Gingras M.-C., et al. (2016). Genomic analyses identify molecular subtypes of pancreatic cancer. Nature 531, 47–52. 10.1038/nature16965 - DOI - PubMed
+ 
+Bashir A., Miskeen A. Y., Bhat A., Fazili K. M., Ganai B. A. (2015). Fusobacterium nucleatum: an emerging bug in colorectal tumorigenesis. Eur. J. Cancer Prev. 24, 373–385. 10.1097/CEJ.0000000000000116 - DOI - PubMed
+ 
+Bhattarai Y., Si J., Pu M., Ross O. A., McLean P. J., Till L., et al. (2021). Role of gut microbiota in regulating gastrointestinal dysfunction and motor symptoms in a mouse model of Parkinson 's disease. Gut Microbes 13, 1866974. 10.1080/19490976.2020.1866974 - DOI - PMC - PubMed

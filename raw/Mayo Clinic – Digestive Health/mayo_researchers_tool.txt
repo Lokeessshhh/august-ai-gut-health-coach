@@ -1,0 +1,32 @@
+ROCHESTER, Minn. — A team of Mayo Clinic researchers has developed an innovative computational tool that analyzes the gut microbiome, a complex ecosystem of trillions of bacteria, fungi, viruses and other microorganisms within the digestive system, to provide insights into overall well-being.
+
+In a new study published in Nature Communications, the tool demonstrated at least 80% accuracy in differentiating healthy individuals from those with any disease. The tool was developed by analyzing stool gut microbiome profiles from more than 8,000 samples representing various diseases, geographic regions and demographic groups.
+
+The tool, called Gut Microbiome Wellness Index 2, could detect even subtle changes in gut health, identifying whether a person may be progressing toward or recovering from a disease. The researchers used bioinformatics and machine learning methods to analyze gut microbiome profiles in stool samples gathered from 54 published studies spanning 26 countries and six continents. This approach produced a diverse and comprehensive dataset.
+
+This capability addresses longstanding challenges in human microbiome research, including defining what constitutes a "healthy" microbiome and identifying early indicators of potential health issues. It also fills a significant gap in existing measurement tools of health and wellness.
+
+The gut microbiome plays a crucial role in digestion, metabolism and immune function, and researchers are finding an imbalance in the gut microbiome can be linked to various chronic diseases.
+
+"Finally, we have a standardized index to quantitatively measure how 'healthy' a person's gut microbiome is," says Jaeyun Sung, Ph.D., the senior author and computational biologist at Mayo Clinic Center for Individualized Medicine's Microbiomics Program.
+
+"Our tool is not intended to diagnose specific diseases but rather to serve as a proactive health indicator," he adds. "By identifying adverse changes in gut health before serious symptoms arise, the tool could potentially inform dietary or lifestyle modifications to prevent mild issues from escalating into more severe health conditions, or prompt further diagnostic testing. By being able to answer whether a person’s gut is healthy or trending toward a diseased state, we ultimately aim to empower individuals to take proactive steps in managing their own health."
+
+The tool development process involved identifying microbial species, carefully selecting the most relevant features and optimizing the machine learning model.
+
+The end result is an index that screens a gut microbiome sample and quantifies how much it resembles a healthy (disease-free) or non-healthy (diseased) individual.
+
+The study team first tested the index on a training set of more than 8,000 microbiome samples, and then validated its work on a new cohort of 1,140 samples.
+
+The team also tested its tool across various clinical scenarios, including people who had undergone fecal microbiota transplantation, as well as people who made changes in dietary fiber intake or who had antibiotic exposure, to demonstrate its ability to detect shifts in gut health.
+
+The Gut Microbiome Wellness Index 2 builds upon the team's original tool by incorporating a wider range of data and using refined computational methods. The team hopes this new version enhances precision in assessing gut health and monitoring changes in the gut microbiome.
+
+Dr. Sung and his team plan to further develop the Gut Microbiome Health Index 2 by expanding its dataset to include a broader range of microbiome samples from diverse populations, and by adding more advanced artificial intelligence techniques to enhance the tool's predictive accuracy and adaptability.
+
+Review the study for a complete list of authors, disclosures and funding.
+
+###
+
+About Mayo Clinic
+Mayo Clinic is a nonprofit organization committed to innovation in clinical practice, education and research, and providing compassion, expertise and answers to everyone who needs healing. Visit the Mayo Clinic News Network for additional Mayo Clinic news.

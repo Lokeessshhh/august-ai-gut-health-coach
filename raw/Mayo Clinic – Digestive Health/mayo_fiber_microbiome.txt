@@ -1,0 +1,254 @@
+There’s still so much to learn about the gut microbiome. For example, do we have any other microbiomes in our bodies? What comes first, a chronic disease or an altered gut microbiome? And do those home testing kits really work?
+
+On this episode of On Nutrition, we talk with gastroenterologist Dr. Purna Kashyap about why we need to keep our gut microbes healthy, the importance of fiber, and the pros and cons of pre- and probiotics.
+
+Read the Transcript:
+Tara Schmidt: This is “Mayo Clinic On Nutrition,” a podcast from Mayo Clinic where we dig into the latest nutrition trends and research to help you understand what’s health, and what’s hype. I’m Tara Schmidt, a registered dietician with Mayo Clinic in Rochester, Minnesota, and in this episode — the gut microbiome.
+
+But first, let’s dissect your salad in a segment we call “Health or Hype.” It’s time we talk about iceberg lettuce. You may have heard the rumors — iceberg lettuce has no nutritional value.
+
+Well, I’d like to debunk that myth once and for all. There are worse foods than iceberg lettuce, you guys! Wedge salad? Sign me up. Now because of its high water content, (96 percent) is it as high in vitamin A as romaine lettuce? No. Is it as high in magnesium as spinach? Also no. But is it bad for you, or worthless? Of course not!
+
+A veggie is a veggie, and Americans could use a few of those in their lives, if you know what I’m saying. Iceberg is low in calories, high in water, and still a source of folate, vitamin K, and vitamin A. It also has a nice crunch, doesn’t die in my crisper drawer within 24 hours, and has a less bitter taste, in case you have kale-haters in the home.
+
+What iceberg lettuce doesn’t have is a lot of fiber, a necessary nutrient we’re going to discuss in this episode. Throw some beans, nuts and seeds in the mix and stop worrying so much about every selection in your salad. Got a nutrition trend you want me to unpack?
+
+Send us a voicemail at (507) 538-6272. I’d love to hear what strange or new ideas you’ve seen out there. Now, onto the show. In research and in the news, we’ve heard more and more about the gut microbiome — the colony of bacteria, funguses, viruses, and parasites that live in our intestines.
+
+This community of teeny tiny microbes has tremendous power — both over our digestive system, and our overall health. But what we haven’t been able to figure out is how exactly to harness this power to its full potential. We know a few things that work… and a few things that don’t.
+
+Here to help us sort through the options and optimize our guts is Dr. Purna Kashyap. Dr. Kashyap is a gastroenterologist at Mayo Clinic in Rochester, Minnesota who specializes in the gut microbiome and gastrointestinal disorders. Thank you for being with me this afternoon, Dr. Kashyap.
+
+Dr. Purna Kashyap: Thank you for having me.
+
+Tara Schmidt: Let’s talk about the microbiome. People like to say the microbiome, as if there’s only one — in which case, they’re probably talking about the gut microbiome. But we actually have several microbiomes in our body, not just our gut, right?
+
+Dr. Purna Kashyap: Yeah. The microbiome is essentially a community of bacteria, fungi, viruses, as well as all the genes that they encode in any given location. The skin has its own microbiome. The lung has its own microbiome. The reproductive tract, especially the female reproductive tract, has its own microbiome.
+
+The reason we all talk about the gut microbiome is because that’s probably where the most diverse microbiome exists in our body. That’s where a lot of these microbes are present, and they do a lot of functions, whereas they may be more specialized in other locations.
+
+Tara Schmidt: How exactly does the gut microbiome work?
+
+Dr. Purna Kashyap: For the most part, microbes are helping us metabolize dietary components, which we are not very good at. As a result of that, they get nutrition or energy. The byproducts that they produce are generally beneficial for us. Common ones are short chain fatty acids or butyrate to help maintain the health of the colon wall.
+
+It helps maintain the barrier along the GI tract. It plays important roles in keeping our gut healthy.
+
+Tara Schmidt: We’re used to thinking of bacteria as good or bad. Are all the bacteria in our gut ones we would consider “good” bacteria? Or is that even the right way to think about it?
+
+Dr. Purna Kashyap: Good and bad is like black and white, right? There are good bacteria. There are definitely bad bacteria. But there are also good bacteria which can turn bad. For the most part, it’s a mutualistic environment where we are providing safe haven, we’re providing nutrition to these bacteria or microbes, and in return, they make sure that the environment remains healthy.
+
+Because that’s in their best interest. But if we become unhealthy, some of these bacteria may then be stressed and they might do things which are not good for us. There is a continuum where some good bacteria can turn bad.
+
+Tara Schmidt: What would happen if we didn’t have all these healthy bacteria?
+
+Dr. Purna Kashyap: If a healthy individual who has a lot of these good healthy bacteria were to lose them, that’s where what we call opportunistic bacteria can come in. The best example of that is C. Difficile, which is present all around us, but it cannot infect us and cause disease, because all the good bacteria keeps it at bay.
+
+Let’s say somebody gets antibiotics, and they have to take antibiotics multiple times and that can damage some of the good bacteria. Now there’s an opening for these opportunists to come in and by causing diarrhea, by causing us to have disease, they will make sure that the healthy bacteria don’t just come back in.
+
+Tara Schmidt: That’s why we most often see C. Diff in the hospital.
+
+Dr. Purna Kashyap: C. Diff, the risk factors like antibiotic use, hospitalization, certain medications which affect our immune system, all of these things can affect the microbial balance in our body.
+
+Tara Schmidt: Let’s talk about how the gut microbiome develops. We are actually building our biomes from the very beginning — literally, since birth. Can you tell us more about that?
+
+Dr. Purna Kashyap: A baby as it’s born is starting to acquire microbes from the environment. Before that, it’s in a relatively sterile environment. When somebody is born by C section, the skin is the first place to have contact with it, which is where they’ll start picking up microbes from and then the microbiome will evolve based on the mother’s environment as well as the child’s own environment.
+
+Now when somebody is born through the natural birth canal, they’re going to be exposed to the vaginal cavity at the time of birth. They’ll pick up a whole different set of microbes. The early life is a very vulnerable period for the development of the microbiome as much as it is for the development of the child because that’s going to be very easily perturbed.
+
+Tara Schmidt: How does the gut microbiome affect other aspects of our health?
+
+Dr. Purna Kashyap: The gut is a conduit to other organs. Most of the nutrients of the products in the gut are getting absorbed into the bloodstream. Then they can travel to distant sites, whether it’s the cardiovascular system, lungs or the brain.
+
+Some of these different sites have their own microbiome, which could be performing functions in those areas itself.
+
+They’ve been shown to have an effect on the immune system. On the central nervous system or the brain function, which affects our mood, which affects degenerative disorders or neurological disorders. It affects cardiovascular health. It can have an effect on the endocrine system, like diabetes and obesity.
+
+Tara Schmidt:   We know that people who have certain diseases can have a different microbiome. Does their different microbiome contribute to their disease state, or has their disease altered the makeup of their microbiome? Is it the chicken or the egg?
+
+Dr. Purna Kashyap: We’ve always asked this question. But it’s not as straightforward when it comes to the microbiome.
+
+When you put in a bad apple among a group of people, that bad apple is going to attract more bad apples, and it’s going to then perpetuate it. It doesn’t mean that that group was bad to begin with. But one bad member came in and then bought in a few more of its friends and now it’s going to make sure that the good ones don’t come back in.
+
+That’s how you have to think about this, is that the microbiome may not always be the first thing that goes wrong. It could be. But it could also be the second or the third or the fourth thing which goes wrong. Once there are some bad microbes, they’re going to try to perpetuate an environment which then allows them to survive because they don’t want to lose their place.
+
+That’s why when we think about chronic diseases like diabetes and obesity and autoimmune disorders, there’s never one thing which can explain the entire disease. We always think about genes, environment, and now we think of microbes.
+
+Tara Schmidt: They may not be the reason for a disease, but they can still be related to someone’s disease state. But it also sounds like there’s so much we’re still figuring out.
+
+Dr. Purna Kashyap: Oh yeah, it’s such a young field. We’ve just started scratching the surface. Till now, a lot of the work has just been saying that people with mood disorders have a different microbiome. People with Alzheimer’s have a different microbiome. People with Parkinson’s have a different microbiome.
+
+But nobody knows what that different microbiome means. The different microbiome may just be a reflection of that person’s disease state without having any impact on the disease.
+
+Tara Schmidt: It could be just correlation.
+
+Dr. Purna Kashyap: Yeah. We’ve now started looking into how the microbiome can cause disease. That’s what we have to learn before we can start saying, “Oh, we need to change the microbiome.”
+
+Tara Schmidt: Just because something’s different, doesn’t necessarily mean it’s bad.
+
+Dr. Purna Kashyap: Yeah. We have to be able to show both that it’s different and it’s bad and if we change certain parts of that microbiome, it will improve our health. That’s where the majority of the research is focused right now. Our gut microbiome is a vital part of our biology.
+
+These microbes benefit from the food we eat, and in return, they make substances our body needs. They also maintain a healthy community balance so that we don’t get infections or disorders in our gut.
+
+What’s in our gut also eventually goes into our bloodstream, so it’s no surprise that the gut microbiome affects the rest of our body. But here’s where it gets tricky — we know that people with certain diseases or conditions have different gut microbiomes.
+
+What we don’t know is if the altered microbiome caused the condition, or if the condition altered the microbiome. Either way, being able to influence our gut microbiomes for the better is in our best interest. Let’s talk about one of the easiest ways to do that — what we eat.
+
+Tara Schmidt: The question, of course, that I always get as a dietitian is about food and food choices. There’s been a common theme, and that common theme is fiber, or lack thereof.
+
+ We have diversified plants, fruits, vegetables, whole grains, nuts and seeds, et cetera, which almost all contain fiber as opposed to ultra processed foods, artificial sweeteners, and emulsifiers. Talk more about fiber’s role in the gut.
+
+Dr. Purna Kashyap: You’re right about the fiber. Fiber comes in so many different forms, but a different term was microbiota accessible carbohydrates. What does that mean? It means that there are so many things that we eat and we have the enzymes to break it down, but in each food type that we eat, there are so many other carbohydrates that we cannot break down.
+
+In an apple, pectin is an example. We don’t have the ability to break it down, which means that after we are done with the apple, with what we can do with it, there are going to be parts of it which reach the microbiome.
+
+Now you’re eating for two. You’re eating for yourself, and you’re eating for the microbes. That’s why we think that fiber or carbohydrates, which are more accessible to these microbes, are required to maintain a diverse community.
+
+Just like we can break down a part of this food. One microbe can break down maybe another part, which then takes that and passes it on to the next microbe, then to the next microbe. That builds a community.
+
+They each have their own function, in a system. As we consume more diverse whole food plant sources, they tend to be able to support much more diversity among these microbes.
+
+Whereas if you were to move to more simplified foods, which we are very capable of absorbing and taking up, then we’ll start starving these microbes, because then they have nothing to eat. Which brings us to when a good microbe can turn bad. just how we get hangry, these bacteria do get hangry too.
+
+If you starve them, they are going to start attacking the lining of our gut to get those nutrients. That’s why it’s important to keep them happy.
+
+Tara Schmidt: Do we know of truly harmful ingredients or foods? We know that ultra processed foods, foods high in added sugar, foods high in fat, processed meats, and maybe even red meat are not beneficial. But are there things that you tell your patients to truly stay away from? Maybe even certain diets?
+
+Dr. Purna Kashyap: These are the things which I tell my patients to stay away from, because these have not only been shown to affect our overall health, but they’ve also been shown to have a harmful effect on the microbes. The way I look at it is that healthy people have healthy microbiomes.
+
+The things that keep us healthy are very likely to also have a beneficial effect on the microbes. We know fiber rich, or whole food, or plant based diets can help the microbes. Similarly, protein sources coming from fish are probably more likely to have a good effect on the microbiome.
+
+There is a general food category where all of the things that you mentioned are good for us: like the Mediterranean diet, and they’ve also been shown to have a good effect on the microbes.
+
+There is some data on red meat consumed in high quantities, it’s not necessarily that it will drive the microbes to a bad state, but the microbes can utilize it and produce things which may not be good for us. There are some things which are harmful because of how the microbes process it.
+
+Tara Schmidt: We’re talking about general reactions a gut microbiome may have to certain foods or diets. But how much does a single person’s unique microbiome come into play — where someone may more easily process a certain food, for example, or be very sensitive to another?
+
+Dr. Purna Kashyap: Each individual does harbor a unique microbiome. There could be components within these broad categories, which are either much better for an individual or not as good for an individual. You could individualize or personalize some dietary choices based on an individual’s microbiome, and that’s where the field is going towards.
+
+It doesn’t mean that oh, because you have these bacteria, you can eat as many french fries you want. Nothing’s going to happen to you. It’s just that it will hopefully open up more food choices for people so that diet doesn’t become too restrictive, where you have to eat a high fiber diet, which has got all the different plant groups or nothing. That’s what we’re hoping we’ll be able to get to.
+
+Tara Schmidt: This is all good news because we know that so many people struggle with symptoms. IBS type symptoms would be an example. They are really seeking out what is causing this. That’s sometimes why they turn to elimination diets. But there’s never going to be an answer that we can give everyone.
+
+Are you lactose intolerant? Et cetera. Even if you are lactose tolerant, everyone can handle different amounts of lactose. It makes it complicated. When you were talking, I was also thinking about confounding factors.
+
+Are the people who are eating high plant based diets also exercising more than those who are having more ultra processed foods, and if they’re exercising more and they’re eating a healthier diet, are they a more healthy weight? It’s a lot. It’s a lot.
+
+Dr. Purna Kashyap: When we think about elite athletes. Their diet is very different and if somebody was to just adopt their diet but not their exercise routine, we’re going to fall apart. All of these go hand in hand.
+
+People who eat healthy food generally make healthy choices. That’s where these programs should be focused on more than one thing. It’s not about fixing the microbiome, but it’s more about making healthy choices, which also promote a healthy microbiome. Microbiome is a part of the equation, but it’s not the whole equation.
+
+Tara Schmidt: Is there a way to tell if someone’s symptoms are coming from a microbiome problem, let’s say? We’re talking about mood disorders, and we’re talking about IBS type symptoms or intolerances, and I would assume that there’s no way to know that X causes Y, because there’s a thousand reasons you could have a mood disorder or an intolerance.
+
+Dr. Purna Kashyap: When we think about microbes and infection, you have to have a causative organism, and then you eliminate that, and then the symptoms go away. That’s how you typically would judge whether the microbiome is causing symptoms and you change it and the symptoms go away.
+
+Now we see that with C. Difficile infection, where we change the microbiome completely and C. Diff goes away, symptoms improve. In other instances, we can’t pinpoint yet, we’re trying to find if there are specific microbes, or more so, what these microbes are doing. Because a lot of different bacteria can perform the same function.
+
+Somebody may have bacteria A, somebody may have bacteria B, both may be doing the exact same thing and could be causing a mood disorder. It’s not just who’s there, but also what they’re doing in the body.
+
+When you eat food, you’re able to digest and use some of it, but whatever’s left over goes to feed your microbes. The way to nourish your gut microbiome is to eat things with components that you can’t digest, but your microbes can.
+
+Fiber, which belongs to a category called microbiota accessible carbohydrates, is a great example. A diet rich in fruits and vegetables, such as a whole food, a plant-based diet, or the Mediterranean diet, is also great for your gut microbiome.
+
+On the flip side, foods that aren’t so great for your gut are ultraprocessed foods, red meat, and foods high in unhealthy fats or added sugar. But remember that your gut microbiome is as unique as your fingerprint. Like with any approach to diet, it’s important to listen to your body.
+
+But we all know it’s never that simple. People who want a healthy gut try a lot of things, from probiotics to elimination diets — and not all of it helps. Let’s talk about what to do, or what not to do.
+
+Tara Schmidt: I don’t ever fault patients for seeking out information, of course. But we also know that people are purchasing home testing kits. They’re at the drugstore buying supplements and we’ve got prebiotics and probiotics and now there’s little things that you stick in your drink and people are calling them GLP 1-ish and I’m not sure that that’s true.
+
+But can you go through some of the myths or their trends? Let’s start with at home kits. Are these accurate at all?
+
+Dr. Purna Kashyap: It’s very difficult to say whether they’re accurate or not because there is no way to validate them. Because these are not FDA approved tests. Let’s say that they do what they tell you. Then they also rely on their own group of what they consider healthy people — because there’s no way to look at your microbiome and say yours is good or bad without comparing it with others’.
+
+When you get a blood test, we say, okay, if you were outside of this range, which is based on a large group of healthy individuals, you’re good or bad. These companies would just then come up with their own numbers to say what is good and bad.
+
+And then, you come up with the result, which tells you you have more of this, less of that. That’s the first problem — that is not a valid test to start with. Then, like you said, people take that test and then they start acting on it, which is the other risk, and they either give you supplements and say, “Oh, you have low numbers of this bacteria, so go and buy this probiotic.”
+
+Then you add it up, and then we’re not making a dish here. This is not a math problem. Those microbes are not going to survive in your gut. Like I mentioned, these are tight knit communities, and they’re not going to allow a new member to just come in and hang out there, just because we say that it was missing from the community.
+
+That is going to go right through you. That’s why when you look at the efficacy of probiotics in adults, for the most part, they have not been shown to help most conditions. In general, the concept of probiotics is correct. Being able to give good bacteria is the approach, but the current strategy of this testing and giving you what’s missing is not the right approach.
+
+Tara Schmidt: These tests and people trying to sell you probiotics might not actually be helpful. It’s the right idea in theory, but doesn’t seem to be working in practice. But are these things harmful, or just ineffective?
+
+Dr. Purna Kashyap: In general, people have pushed this saying, what’s the harm? They’re right in most healthy individuals, there may not be a physical harm, but there is a psychological harm. There is a financial harm because patients are expecting to feel better after this. It’s preying on the vulnerable who are trying to improve their health. Then, all they’ll end up doing is spending money without an actual benefit.
+
+Tara Schmidt: I feel the exact same about food and sensitivity testing. People come in with this, “I’m going to say a random list of foods” and they eliminate all of these foods, and I have a pretty good feeling that it’s not your list of 30 foods. Maybe we can find one.
+
+Sometimes we do challenges where we eliminate something from your diet for a few weeks, and then we try to add it back in singularly and see if there’s a change in symptoms.
+
+But I feel very similar to people who come to me with this red, yellow and green list of foods that they got from the internet they’re not supposed to have.
+
+Dr. Purna Kashyap: This is where the challenge is. Because most patients try to do things which are under their control. If they get symptoms, they take out something, they feel better for a day, but they are seeing you after a year after they’ve eliminated 20 things and you ask them, “are you feeling better?” They say, “no,” and I ask them, “Why did you stop eating those,” and they say, “Well…
+
+Tara Schmidt: “The internet told me to.”
+
+Dr. Purna Kashyap: Right. Because if they were to stop eating something and all their symptoms went away, I’d say, maybe that was it. But it doesn’t happen. Like you said, they eliminate one thing, then the next thing, then the next thing. Now they’re only able to eat five things and their symptoms are equally bad.
+
+They don’t realize that they stopped eating certain things mainly because their symptoms should have improved. But once they didn’t improve, they should have just gone back to eating
+
+Tara Schmidt: Yeah. That’s a challenge. We do it singularly with different types of carbohydrates. If you think of the acronym FODMAP, we try to determine if Fermentable Oligosaccharides, Disaccharides, Monosaccharides And Polyols — I try not to say that too many times in a day — is one of those triggers.
+
+An example would be lactose intolerance. If you have diarrhea every time you have milk, maybe you have lactose intolerance. That’s fine. You can eliminate milk and eliminate dairy, but that doesn’t necessarily mean all dairy products. It doesn’t necessarily mean that you can’t have a little bit of yogurt or even half a glass of milk along with other foods.
+
+It’s more concerning to me when people eliminate either entire food groups or a long list of foods, really without evidence that that’s necessary.
+
+Dr. Purna Kashyap: As you mentioned, FODMAP is a good example because it’s become so prevalent. The whole concept of FODMAP was to eliminate and reintroduce. Unfortunately, the majority of patients are eliminated with no reintroduction.
+
+Tara Schmidt: I know!
+
+Dr. Purna Kashyap: By the time they come back to see you, it’s actually very hard to reintroduce them because they’re not going to tolerate the same foods if they’ve stopped eating them.
+
+If you stop eating something for a year and then start eating them back again, you’re going to get symptoms and feel sick. That’s why I tell patients that they should work with a dietitian. It’s not a good idea to do this on your own.
+
+It may sound like it’s easy, but it’s not. It’s unfortunate because a lot of these patients then become intolerant to multiple foods.
+
+Tara Schmidt: You may not have been intolerant before. When I was a dietician someone told me, “Oh, I’ve been on a low FODMAP diet for years.” I wanted to politely say, “You’re not supposed to be on it for multiple years. That sounds horrible.”
+
+Dr. Purna Kashyap: But the interesting part is, when you look at the data around low FODMAPs, it helps patients when you compare it to no other dietary intervention. If you compare it to general dietary advice, the responses are not that dramatically different.
+
+One could argue that, trying a dietary intervention where you’re trying to increase fiber or plant based food in those individuals may have the same effect down the road.
+
+Tara Schmidt: It’s hard because people find it easier to just say, “Okay, I was told to not eat” blank, then they just stop, and I get it.
+
+We are all seeking answers and we want to do things that are in our control. It’s clearly a lot more complex than we think it is.
+
+Dr. Purna Kashyap: Absolutely is.
+
+Tara Schmidt: Last but not least, let’s talk about prebiotics and probiotics. What are they? What’s the difference?
+
+Dr. Purna Kashyap: Probiotics are live bacteria, which have a demonstrable health benefit. A prebiotic would be something which can be consumed by a community of bacteria, and they can promote a healthy microbial community.
+
+The point is either you take a bacteria, which is supposed to have a beneficial effect on your health, or you take something which promotes that single or community of microbes, which is supposed to have a beneficial effect on it.
+
+If you think of it, prebiotic is a step ahead. But we haven’t been able to show the health benefits yet of these, which doesn’t mean that these are not effective. It just means that we haven’t figured out the right combination that we should be using to promote health.
+
+Tara Schmidt: I used to say probiotics eat prebiotics, is that a little too simple for you?
+
+Dr. Purna Kashyap: No, that’s true. That is what it is.
+
+Tara Schmidt: When we talk about pre and probiotics, I wanted to talk about the possible benefit versus neutrality of eating things with pre and probiotics. Yogurt is the best example.
+
+Dr. Purna Kashyap: That’s a good example. Most cultures have adopted some fermented food. I mean there is Southeast Asia in the middle east where yogurt or buttermilk is very common. You have sauerkraut in Germany. You have kimchi.
+
+All of these are forms of essentially, pro and prebiotics because they’re both microbes and nutrients that support these microbes. Clearly they’ve adopted them because they saw some health benefit from this.
+
+I do ask patients to try and eat as many things that they can make at home, if it’s just about eating yogurt or eating fermented foods, it’s some things which they can actually do at home rather than getting it as a commercial source.
+
+Because commercial products are meant to make things more palatable by adding sugar, which may take away the beneficial aspect of the food altogether.
+
+Tara Schmidt: I love kombucha and it’s absolutely delicious, but that’s because I buy it in a glass bottle and it’s like mango passion fruit flavored. There’s hopefully some benefits there, but I also know that I’m not just getting the benefits of the fermented beverage.
+
+Well, thank you so much for your time today Dr. Kashyap. It seems like there’s a lot more to learn here that could help tons of people, and I can’t wait to see what the research uncovers.
+
+Dr. Purna Kashyap: It’s a pleasure to join you guys.
+
+Tara Schmidt: While those at-home testing kits can be interesting, we don’t know for sure that they’re accurate. We also don’t know enough about what a person’s microbiome should look like to use that information as a basis for changing it.
+
+Speaking of making changes, elimination diets can be helpful… if you do them right. You shouldn’t be cutting out long lists of foods on a long-term basis. Instead, reintroduce foods if they aren’t a clear trigger for you, so you don’t limit your diet unnecessarily.
+
+If you want to make sure you’re approaching elimination in a healthy, thoughtful way, it could be time to pay a visit to your friendly neighborhood dietitian, and last but not least: prebiotics and probiotics. Prebiotics feed your healthy bacteria, and probiotics are healthy bacteria. It seems like you should be able to take a probiotic and ta-da: more healthy bacteria in your gut.
+
+But we’re finding it doesn’t work that way in practice — and on top of that, some probiotics are expensive. Until we know more, a better approach is to consume natural sources of pre and probiotics, like fermented foods. Looks like I have a good excuse to drink more kombucha!
+
+That’s all for this episode, but if you have a follow-up question, leave us a voicemail at (507) 538-6272 and we’ll answer it in a future episode! On the next episode of “On Nutrition,” “Nutrition News.”
+
+For more “On Nutrition” episodes and resources, check us out online at mayoclinic.org/onnutrition. If you found this show helpful, please subscribe. Make sure to rate and review us on Apple Podcasts, or your favorite podcast app — it really helps others find our show. Thanks for listening, and until next time, eat well, and be well.

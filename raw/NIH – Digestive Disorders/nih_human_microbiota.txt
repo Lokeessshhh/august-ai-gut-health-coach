@@ -1,0 +1,50 @@
+Abstract
+The human gut microbiota has received considerable interest in the recent years and our knowledge of the inhabitant species and their potential applications is increased particularly after the development of metagenomic studies. Gut microbiota is highly diverse and harboring trillions of microorganisms in human digestive system. The shaping and multiplication of gut microbiome starts at birth, while the modification of their composition depends mainly on various genetic, nutritional and environmental factors. The modification in the composition and function of the gut microbiota can change intestinal permeability, digestion and metabolism as well as immune responses. The pro inflammatory state caused by alternation of gut microbiota balance lead to the onset of many diseases ranging from gastrointestinal and metabolic conditions to immunological and neuropsychiatric diseases. In this context, the present review clarifies the role of gut microbiota in maintaining host health and investigates how nutritional and environmental factors affect the gut microbial structure and function. In addition, many therapeutic strategies of gut microbiota aimed at modulating and restoring of the intestinal ecosystem balance have been surveyed.
+
+Keywords: Dysbiosis; Fecal microbiota transplantation; Gut microbiome; Gut-brain axis; Human diseases; Prebiotics; Probiotics; Therapeutic strategy.
+
+PubMed Disclaimer
+
+Similar articles
+Restoration of dysbiotic human gut microbiome for homeostasis.
+Dixit K, Chaudhari D, Dhotre D, Shouche Y, Saroj S.
+Life Sci. 2021 Aug 1;278:119622. doi: 10.1016/j.lfs.2021.119622. Epub 2021 May 17.
+PMID: 34015282 Review.
+Anorexia nervosa and gut microbiome: implications for weight change and novel treatments.
+Wei Y, Peng S, Lian C, Kang Q, Chen J.
+Expert Rev Gastroenterol Hepatol. 2022 Apr;16(4):321-332. doi: 10.1080/17474124.2022.2056017. Epub 2022 Mar 22.
+PMID: 35303781 Review.
+Rebuilding the Gut Microbiota Ecosystem.
+Gagliardi A, Totino V, Cacciotti F, Iebba V, Neroni B, Bonfiglio G, Trancassini M, Passariello C, Pantanella F, Schippa S.
+Int J Environ Res Public Health. 2018 Aug 7;15(8):1679. doi: 10.3390/ijerph15081679.
+PMID: 30087270 Free PMC article. Review.
+A narrative review of relationship between gut microbiota and neuropsychiatric disorders: mechanisms and clinical application of probiotics and prebiotics.
+Yang H, Liu Y, Cai R, Li Y, Gu B.
+Ann Palliat Med. 2021 Feb;10(2):2304-2313. doi: 10.21037/apm-20-1365. Epub 2021 Jan 28.
+PMID: 33549028 Review.
+Unraveling mechanistic insights into the role of microbiome in neurogenic hypertension: A comprehensive review.
+Dai Y, Shen Z, Khachatryan LG, Vadiyan DE, Karampoor S, Mirzaei R.
+Pathol Res Pract. 2023 Sep;249:154740. doi: 10.1016/j.prp.2023.154740. Epub 2023 Aug 6.
+PMID: 37567034 Review.
+See all similar articles
+Cited by
+Exploring the gut microbiome's role in colorectal cancer: diagnostic and prognostic implications.
+Chen G, Ren Q, Zhong Z, Li Q, Huang Z, Zhang C, Yuan H, Feng Z, Chen B, Wang N, Feng Y.
+Front Immunol. 2024 Oct 17;15:1431747. doi: 10.3389/fimmu.2024.1431747. eCollection 2024.
+PMID: 39483461 Free PMC article. Review.
+Jianpi-Huatan-Huoxue-Anshen formula ameliorates gastrointestinal inflammation and microecological imbalance in chemotherapy-treated mice transplanted with H22 hepatocellular carcinoma.
+Wang YN, Zhai XY, Wang Z, Gao CL, Mi SC, Tang WL, Fu XM, Li HB, Yue LF, Li PF, Xi SY.
+World J Gastrointest Oncol. 2024 Oct 15;16(10):4209-4231. doi: 10.4251/wjgo.v16.i10.4209.
+PMID: 39473963 Free PMC article.
+Characteristics of the Gut Bacterial Composition in People of Different Nationalities and Religions.
+Syromyatnikov M, Nesterova E, Gladkikh M, Smirnova Y, Gryaznova M, Popov V.
+Microorganisms. 2022 Sep 18;10(9):1866. doi: 10.3390/microorganisms10091866.
+PMID: 36144468 Free PMC article. Review.
+Characteristics of stachyose-induced effects on gut microbiota and microbial metabolites in vitro associated with obesity in children.
+Pi X, Du Z, Teng W, Fu H, Hu L, Li J, Ding J, Yang X, Zhang Y.
+Front Nutr. 2024 Aug 7;11:1411374. doi: 10.3389/fnut.2024.1411374. eCollection 2024.
+PMID: 39171106 Free PMC article.
+The signatures and crosstalk of gut microbiome, mycobiome, and metabolites in decompensated cirrhotic patients.
+Li Y, Liu D, He Y, Zhang Z, Zeng A, Fan C, Lyu L, He Z, Ding H.
+Front Microbiol. 2024 Aug 21;15:1443182. doi: 10.3389/fmicb.2024.1443182. eCollection 2024.
+PMID: 39234546 Free PMC article.
